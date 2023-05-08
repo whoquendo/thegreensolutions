@@ -18,6 +18,7 @@ import Plaffonage from '../containers/fr/Plaffonage';
 import Terrassement from '../containers/fr/Terrassement';
 import Toiture from '../containers/fr/Toiture';
 import Galerie from '../containers/fr/Galerie-photos';
+import Devis from '../containers/fr/Devis';
 
 const App = () => {
     return (
@@ -38,6 +39,7 @@ const App = () => {
                 <Route exact path='/Terrassement' element={<Terrassement />} />
                 <Route exact path='/Toiture' element={<Toiture />} />
                 <Route exact path='/Galerie-photos' element={<Galerie />} />
+                <Route exact path='/Devis' element={<Devis />} />
                 <Route path= "*" element={<NotFound />} />
         </Routes>
         </Layout>

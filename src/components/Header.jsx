@@ -68,7 +68,7 @@ const Header = () => {
                   <a href="/Galerie-photos">Galerie photos</a>
                 </li>
                 <li class="" id="menu_6">
-                  <a href="/fr/jardinier">Devis - contact</a>
+                  <a href="Devis">Devis - contact</a>
                 </li>
               </ul>
             </nav>
@@ -157,7 +157,7 @@ const Header = () => {
                         Galerie photos</a>
                 </li>
                 <li class="">
-                    <a href="/fr/jardinier">
+                    <a href="Devis">
                         Devis - contact</a>
                 </li>
             </ul>
