@@ -1,0 +1,60 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.container-banner-ppal {
+    width: 100%;
+    height: 75vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: papayawhip;
+    object-fit: cover;
+}
+
+.logo {
+    width: 40%;
+    height: 20vh;
+}
+
+.logo img {
+    width: 100%;
+    height: 30vh;
+    object-fit: cover;
+    border-radius: 10px;
+    opacity: 0.8;
+}
+
+.container-listLangues {
+    width: 10%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.langue {
+    background-color: green;
+    width: 40%; 
+    z-index: 4;
+}
+
+.langue h1 {
+    columns: white;
+}
+
+
+@media (max-width: 740px) {
+    .container-listLangues {
+        width: 20%;
+    }
+
+    .langue {
+        width: 100%;
+        text-align: center;
+
+    }
+}
+

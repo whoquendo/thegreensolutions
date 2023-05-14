@@ -7,13 +7,15 @@ import Services from '@components/Services';
 import AvantServices from '../components/AvantServices';
 import Realisations from  '../components/Realisations';
 import Styles from '../styles/home.css'
+import Bannerppal from '@components/Bannerppal';
 
 const Home = () => {
-  console.log('es el home');
   return (
     <>
       <Header />
-     <Banner />
+      <Bannerppal />
+      <h1 className='title-galerie-photos'>GALERIE - PHOTOS</h1>
+    <Banner />
      <div className='divVacio'></div>
       <Services />
     <Footer />

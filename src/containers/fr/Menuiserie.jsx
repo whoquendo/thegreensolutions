@@ -1,11 +1,13 @@
 import React from "react";
 import Header from "../../components/Header";
-import Footer from "../../components/Footer";
+import Bannerppal from "@components/Bannerppal";
+import Footer from "@components/Footer";
 
 const Menuiserie = () => {
   return (
     <>
       <Header />
+      <Bannerppal />
       <main class="content-wrapper">
         <div class="container">
           <div class="contenu">

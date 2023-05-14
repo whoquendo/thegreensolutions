@@ -9,9 +9,15 @@
     width: 100%;
 }
 
+.container-images {
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
+}
+
 .img-carrousel {    
-    width: 800px;
-    height: 85vh;
+    width: 60%;
+    height: 45vh;
     object-fit: cover;
     border-radius: 10px;
     overflow: hidden;

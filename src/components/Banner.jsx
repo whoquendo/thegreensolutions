@@ -18,8 +18,7 @@ const Banner = () => {
       return (
         <>
         <div className="App">
-        <div className='div-logo'>
-          <img src={logo} className='logo-banner' alt="" />
+        <div>
         </div>
             <div style={{
               padding: "0 20px"
@@ -47,6 +46,7 @@ const Banner = () => {
                   maxWidth: "850px",
                   maxHeight: "500px",
                   margin: "40px auto",
+                  position: "relative"
                 }}
               />
             </div>

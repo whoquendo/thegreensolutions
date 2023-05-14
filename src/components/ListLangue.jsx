@@ -1,6 +1,6 @@
 import React from "react";
 import "@styles/bannerLangue.css";
-import logo from "../assets/imagesConstruction/logo_thegreensolutions.png";
+import logo from "../assets/icons/the_greensolutionsv2.png";
 
 const ListLangue = () => {
   return (

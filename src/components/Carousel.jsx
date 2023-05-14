@@ -29,12 +29,34 @@ const Carousel = () => {
                  <button onClick={prevImage} className="button-carousel">
                     <span>Previous</span>
                   </button>
-                  <img
+                  <div className="container-images">
+                    <div>
+                    <img
                     className="img-carrousel"
                     key={index}
-                    src={image}
+                    src={image.image}
                     alt={index}
                   />
+                    </div>
+                 <div>
+                 <img
+                    className="img-carrousel"
+                    key={index}
+                    src={image.image}
+                    alt={index+1}
+                  />
+                 </div>
+                <div>
+                <img
+                    className="img-carrousel"
+                    key={index}
+                    src={image.image}
+                    alt={index+2}
+                  />
+                </div>
+
+                  </div>
+                 
                       <button onClick={nextImage} className="button-carousel">
       <span></span>
       <span>Next</span>

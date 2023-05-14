@@ -1,9 +1,9 @@
 import React from "react";
-import Styles from '../styles/Header.css'
-import logo from '../assets/icons/the_greensolutionsv2.png'
+import Styles from '../../styles/Header.css'
+import logo from '../../assets/icons/the_greensolutionsv2.png'
 
 
-const Header = () => {
+const Headernl = () => {
   return (
     <>
     <div className="container-navbar">
@@ -18,57 +18,57 @@ const Header = () => {
                 </span>
               </li>
                 <li class="selected" id="menu_1">
-                  <a href="/">Accueil</a>
+                  <a href="../../Homenl">Home</a>
                 </li>
                 <li class="" id="menu_4">
-                  <a href="/fr/apropos">À Propos</a>
+                  <a href="/fr/apropos">Over ons</a>
                 </li>
                 <li class="" id="menu_19">
-                  <a href="/">Nos services</a>
+                  <a href="/">Onze diensten</a>
                   <ul>
                     <li class="">
-                      <a href="Carrelage">CARRELAGE </a>
+                      <a href="../../Tilingnl">TILING </a>
                     </li>
                     <li class="">
-                      <a href="Chassis">CHÂSSIS </a>
+                      <a href="../../Chassisnl">CHASSIS </a>
                     </li>
                     <li class="">
-                      <a href="Cuisine">CUISINE</a>
+                      <a href="../../Keukennl">KEUKEN</a>
                     </li>
                     <li class="">
-                      <a href="Demolition">DÉMOLITION </a>
+                      <a href="../../Demolitienl">DEMOLITIE</a>
                     </li>
                     <li class="">
-                      <a href="Menuiserie">MENUISERIE </a>
+                      <a href="../../Menuiserienl">MENUISERIE </a>
                     </li>
                     <li class="">
-                      <a href="Peinture">PEINTURE </a>
+                      <a href="../../Schilderijnl">SCHILDERIJ </a>
                     </li>
                     <li class="">
-                      <a href="Plaffonage">PLAFONNAGE ET CLOISON </a>
+                      <a href="../../Plafondnl">PLAFOND EN WANDEN</a>
                     </li>
                     <li class="">
-                      <a href="Façade">FAÇADE. NETTOYAGE </a>
+                      <a href="../../Façadenl">FAÇADE. SCHOONMAKEN</a>
                     </li>
                     <li class="">
-                      <a href="Fauxplafonds">FAUX PLAFONDS </a>
+                      <a href="../../Valsespiegelsnl">VALSE SPIEGELS</a>
                     </li>
                     <li class="">
-                      <a href="Balustrade">BALUSTRADE </a>
+                      <a href="../../Balustradenl">BALUSTRADE </a>
                     </li>
                     <li class="">
-                      <a href="Terrassement">TERRASSEMENT </a>
+                      <a href="../../Terrassingnl">TERRASSING</a>
                     </li>
                     <li class="">
-                      <a href="Toiture">TOITURE </a>
+                      <a href="../../Daknl">DAK</a>
                     </li>
                   </ul>
                 </li>
                 <li class="" id="menu_5">
-                  <a href="/Galerie-photos">Galerie photos</a>
+                  <a href="../../Fotogalerijnl">Fotogalerij</a>
                 </li>
                 <li class="" id="menu_6">
-                  <a href="Devis">Devis - contact</a>
+                  <a href="../../Prijsoffertenl">PRIJSOFFERTE - CONTACT</a>
                 </li>
               </ul>
             </nav>
@@ -90,75 +90,75 @@ const Header = () => {
         <nav class="mobile-menu">
             <ul>
                 <li class="selected">
-                    <a href="/">
-                        Accueil</a>
+                    <a href="../../Homenl">
+                    Home</a>
                 </li>
                 <li class="">
                     <a href="/fr/apropos.html">
-                        À Propos</a>
+                    Over ons</a>
                 </li>
                 <li class="">
                     <a href="/">
-                        Nos services</a>
+                    Onze diensten</a>
                     <ul>
                         <li class="">
-                            <a href="Carrelage">
-                                CARRELAGE </a>
+                            <a href="../../Carlagenl">
+                            TILING </a>
                         </li>
                         <li class="">
-                            <a href="Chassis">
-                                CHÂSSIS </a>
+                            <a href="../../Chasis">
+                            CHASSIS </a>
                         </li>
                         <li class="">
-                            <a href="Cuisine">
-                                CUISINE</a>
+                            <a href="../../Keukennl">
+                            KEUKEN</a>
                         </li>
                         <li class="">
-                            <a href="Demolition">
-                                DÉMOLITION </a>
+                            <a href="../../Demolitienl">
+                            DEMOLITIE </a>
                         </li>
                         <li class="">
-                            <a href="Menuiserie">
-                                MENUISERIE </a>
+                            <a href="../../Menuiserienl">
+                            MENUISERIE </a>
                         </li>
                         <li class="">
-                            <a href="Peinture">
-                                PEINTURE </a>
+                            <a href="../../Schilderijnl">
+                            SCHILDERIJ </a>
                         </li>
                         <li class="">
-                            <a href="Plaffonage">
-                                PLAFONNAGE ET CLOISON </a>
+                            <a href="../../Plafondnl">
+                            PLAFOND EN WANDEN </a>
                         </li>
                         <li class="">
-                            <a href="Façade">
-                                FAÇADE. NETTOYAGE </a>
+                            <a href="../../Façadenl">
+                            FAÇADE. SCHOONMAKEN </a>
                         </li>
                         <li class="">
-                            <a href="Fauxplafonds">
-                                FAUX PLAFONDS </a>
+                            <a href="../../Valsespiegelsnl">
+                            VALSE SPIEGELS </a>
                         </li>
                         <li class="">
-                            <a href="Balustrade">
-                                BALUSTRADE </a>
+                            <a href="../../Balustradenl">
+                            BALUSTRADE </a>
                         </li>
                         <li class="">
-                            <a href="Terrassement">
-                                TERRASSEMENT </a>
+                            <a href="../../Terrassingnl">
+                            TERRASSING </a>
                         </li>
                         <li class="">
-                            <a href="Toiture">
-                                TOITURE </a>
+                            <a href="../../Daknl">
+                            DAK </a>
                         </li>
                     </ul>
 
                 </li>
                 <li class="">
-                    <a href="Galerie-photos">
-                        Galerie photos</a>
+                    <a href="../../Fotogalerijnl">
+                    Fotogalerij</a>
                 </li>
                 <li class="">
-                    <a href="Devis">
-                        Devis - contact</a>
+                    <a href="../../Prijsoffertenl">
+                    PRIJSOFFERTE - CONTACT</a>
                 </li>
             </ul>
 
@@ -171,4 +171,4 @@ const Header = () => {
   );
 };
 
-export default Header;
+export default Headernl;

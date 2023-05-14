@@ -1,11 +1,13 @@
 import React from "react";
 import Header from "@components/Header";
+import Bannerppal from "@components/Bannerppal";
 import Footer from "@components/Footer";
 
 const Carrelage = () => {
   return (
     <>
       <Header />
+      <Bannerppal />
       <main class="content-wrapper">
         <div class="container">
           <div class="contenu">

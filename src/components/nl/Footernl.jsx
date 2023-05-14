@@ -1,22 +1,22 @@
 import React from "react";
 import styles from '@styles/footer.css';
-import logoTheGreenSolutions from '.././assets/icons/the_greensolutions_horizontal.png';
+import logoTheGreenSolutions from '../../assets/icons/the_greensolutions_horizontal.png';
 
 
-const Footer = () => {
+const Footernl = () => {
   return (
     <>
       <footer className="bottom">
         <div className="container">
           <div className="contact">
             <div className="bloc1">
-              <h2>Contactez-nous</h2>
+              <h2>CONTACT US</h2>
               <div className="bloc11">
                 {" "}
                 Voskapelstraat 10 <br /> B-1933 Sterrebeek <br />{" "}
                 <span className="googlemaps_v2">
                   <label className="modal-label" for="modal_googlemaps_1">
-                    Plan d’accès
+                  Ligging
                   </label>
                   <input
                     className="modal-state"
@@ -60,7 +60,7 @@ const Footer = () => {
                   thegreensolutions@gmail.com
                 </a>
                 <br />
-                N°TVA : BE 0647.635.544
+                BTW : BE 0647.635.544
               </div>
             </div>
             <div className="bloc2">
@@ -86,30 +86,30 @@ const Footer = () => {
               </div>
             </div>
             <div className="bloc3">
-              <h2>Joignable</h2>
+              <h2>BEREIKBAAR</h2>
               <div id="openingTimesBlock" className="containerOpening">
                 <div className="openingLine">
-                  <span className="openingDay">Lu </span>
+                  <span className="openingDay">MA </span>
                   <span className="openingTime">08:00 - 19:00</span>
                 </div>
                 <div className="openingLine">
-                  <span className="openingDay">Ma </span>
+                  <span className="openingDay">DI </span>
                   <span className="openingTime">08:00 - 19:00</span>
                 </div>
                 <div className="openingLine">
-                  <span className="openingDay">Me </span>
+                  <span className="openingDay">WO </span>
                   <span className="openingTime">08:00 - 19:00</span>
                 </div>
                 <div className="openingLine">
-                  <span className="openingDay">Je </span>
+                  <span className="openingDay">DO </span>
                   <span className="openingTime">08:00 - 19:00</span>
                 </div>
                 <div className="openingLine">
-                  <span className="openingDay">Ve </span>
+                  <span className="openingDay">VR </span>
                   <span className="openingTime">08:00 - 19:00</span>
                 </div>
                 <div className="openingLine">
-                  <span className="openingDay">Sa </span>
+                  <span className="openingDay">ZA </span>
                   <span className="openingTime">09:00 - 14:00</span>
                 </div>
               </div>
@@ -121,4 +121,4 @@ const Footer = () => {
   );
 };
 
-export default Footer;
+export default Footernl;

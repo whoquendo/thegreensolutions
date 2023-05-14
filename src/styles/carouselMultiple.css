@@ -1,0 +1,31 @@
+.container-general {
+    width: 100%;
+    background-color: papayawhip;
+    
+}
+
+.container-items {
+    width: 80vw;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+}
+
+.items {
+    width: 30%;
+    height: 50vh;
+    background-color: rebeccapurple;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    
+}
+
+.img-carousel-services {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    
+}

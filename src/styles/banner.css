@@ -1,18 +1,3 @@
-.logo-banner {
-    display: none;
-}
 
-@media (max-width: 640px) {
-.div-logo{
-    margin-top: 10px;
-    width: 100%;
-    height: 200px;
-}
 
-    .logo-banner{
-     display: block;
-     height: 80%;   
-     width: 100%;
-     object-fit: cover;
-    }
-   }
+
