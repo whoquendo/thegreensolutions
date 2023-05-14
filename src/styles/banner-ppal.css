@@ -12,7 +12,6 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: papayawhip;
     object-fit: cover;
 }
 
@@ -36,7 +35,7 @@
 }
 
 .langue {
-    background-color: green;
+    background-color: #167544;
     width: 40%; 
     z-index: 4;
 }
