@@ -102,11 +102,11 @@ const Headernl = () => {
                     Onze diensten</a>
                     <ul>
                         <li class="">
-                            <a href="../../Carlagenl">
-                            TILING </a>
+                            <a href="../../Tilingnl">
+                            TILING </a> 
                         </li>
                         <li class="">
-                            <a href="../../Chasis">
+                            <a href="../../Chassisnl">
                             CHASSIS </a>
                         </li>
                         <li class="">
