@@ -21,15 +21,15 @@ const Terrassement = () => {
               terrassement – installations de clôtures tous types et de
               palissades (bois et béton).
               <ul>
-                <li>Création de pelouses</li>
-                <li>Confection d’un mur</li>
                 <li>Installation de bassin naturel</li>
+                <li>Raccordement à l’égout</li>
+                <li>Abris de jardin.</li>
                 <li>Démolition partielle ou intégrale de structures</li>
+                <li>Création de pelouses</li>
                 <li>
                   Poses de dalles en béton-Constructions terrasses-Pavages
                 </li>
-                <li>Raccordement à l’égout</li>
-                <li>Abris de jardin.</li>
+                <li>Confection d’un mur</li>
               </ul>
             </p>
           </div>

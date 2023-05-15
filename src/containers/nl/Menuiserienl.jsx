@@ -14,28 +14,28 @@ const Menuiserienl = () => {
           <div class="contenu">
             <h1>
               <h1>
-                <span>MENUISERIE</span>
+                <span>SCHRIJNWERKEN</span>
               </h1>
             </h1>
             <p>
-            Met onze vaardigheden op het gebied van timmerwerk voor uw buiteninrichting, nemen wij uw project vanaf het ontwerp tot de voltooiing voor onze rekening.
+            Onze vaardigheden als timmerman voor uw buiten- en buitenbeplanting, wij zorgen voor uw project van ontwerp tot voltooiing.
               <ul>
-                <h3>Binnenhuisarchitectuur met levering en installatie:</h3>
-                <li>Houten trap, parketvloer.</li>
-                <li>Bekleding.</li>
-                <li>
-                Kasten, kleedkamers, het inrichten van uw zolder.
-                </li>
-                <li>Houten binnendeuren, planken, boekenkasten.</li>
-              </ul>
-              <ul>
-                <h3>Buiteninrichting met levering en installatie:</h3>
+                <h3>Buitenbeplanting met levering en installatie:</h3>
+                <li>Houten chassis.</li>
                 <li>Houten terras.</li>
-                <li>Houten trap.</li>
-                <li>Houten frame.</li>
+                <li>
+                Houten trap.
+                </li>
                 <li>Bekleding.</li>
               </ul>
-              U kunt kiezen uit verschillende materialen en stijlen.
+              <ul>
+                <h3>Interieurindeling met levering en installatie:</h3>
+                <li>Houten binnendeuren, planken, boekenkasten.</li>
+                <li>Houten trap, parket.</li>
+                <li>Bekleding, frame.</li>
+                <li>BKasten, dressing, indeling van uw zolder / zolder.</li>
+              </ul>
+              Je hebt de keuze uit materialen en stijl.
             </p>
           </div>
         </div>

@@ -17,17 +17,22 @@ const Fauxplafonds = () => {
               </h1>
             </h1>
             <p>
-              Nos équipes sont formées à utiliser plusieurs techniques. Il faut
-              tenir compte de l’isolation acoustique comme, par exemple dans un
-              appartement ou une maison à étage ? Aucuns soucis : des plafonds
-              autoportants vous offriront l’assurance que les bruits de l’étage
-              supérieur ne s’entendent pas à l’étage inférieur. L’attention doit
-              être placée sur l’isolation calorifique ? Optez pour des faux
-              plafonds suspendus. C’est la solution idéale notamment pour
-              réduire le volume de très grandes pièces et réduire en quantité la
-              consommation de chauffage ou encore pour cacher des conduits
-              techniques. La qualité de la visite préliminaire et de l’analyse
-              qui s’en suit est déterminante.
+              Nos équipes sont formées à utiliser différentes techniques pour
+              garantir une isolation acoustique et thermique optimale.
+            </p>
+            <p>
+              Que vous viviez dans un appartement ou une maison à étages, nous
+              proposons des plafonds autoportants pour empêcher la propagation
+              du bruit du niveau supérieur vers le niveau inférieur.
+            </p>
+            <p>
+              Nous offrons également des faux plafonds suspendus pour une
+              isolation thermique efficace, réduire la consommation de chauffage
+              et masquer les conduits techniques.
+            </p>
+            <p>
+              La qualité de notre visite préliminaire et de l'analyse qui suit
+              est primordiale pour garantir la satisfaction de nos clients.
             </p>
           </div>
         </div>

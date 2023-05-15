@@ -12,11 +12,19 @@ const Tilingnl = () => {
         <div class="container">
           <div class="contenu">
             <h1>
-              <span>TILING</span>
+              <span>TEGELWERKEN</span>
             </h1>
             <p>
-            Onze tegelzetters werken in alle omstandigheden, niet alleen voor nieuwe installaties maar ook voor renovatie en herstel van gebouwen. Op basis van plannen of schetsen, mondelinge of schriftelijke instructies voeren wij oppervlaktebekledingen uit in harde materialen (aardewerk, steengoed, keramiek, natuursteen, enz.). Deze werkzaamheden kunnen zowel binnen als buiten worden uitgevoerd. Wij zijn altijd op de hoogte van nieuwe trends en technische innovaties. Onze tegelzetters evalueren samen met u uw project, geven u advies en stellen een gratis bestek op.
+            Onze tegelzetters staan klaar om elke uitdaging aan te gaan, of het nu gaat om een nieuwe installatie, renovatie of herstelling van een gebouw.  
             </p>
+            <p>
+            Op basis van plannen, schetsen, mondelinge of schriftelijke instructies installeren wij strakke materialen zoals tegels, steengoed, keramiek of natuursteen, zowel binnen als buiten. 
+              </p>
+              <p>
+              Wij zijn altijd op de hoogte van de nieuwste trends en innovatieve technologieën. 
+Wij nemen de tijd om uw project te leren kennen, u te adviseren en u een gratis gedetailleerde offerte te bezorgen.
+
+              </p>
           </div>
         </div>
       </main>

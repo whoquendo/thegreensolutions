@@ -14,7 +14,7 @@ const Terrassingnl = () => {
           <div class="contenu">
             <h1>
               <h1>
-                <span>TERRASSING</span>
+                <span>TERRASWERKEN</span>
               </h1>
             </h1>
             <p>

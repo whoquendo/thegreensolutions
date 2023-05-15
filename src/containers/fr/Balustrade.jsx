@@ -19,9 +19,7 @@ const Balustrade = () => {
               </h1>
             </header>
             <p>
-              Fabriqués sur mesures en fonction de la situation (fixations
-              spécifiques utilisées en fonction du sol, pose avec scellement
-              chimique pour la solidité).
+            Nous créons des solutions sur mesure en fonction de chaque situation. Nous utilisons des fixations spécifiques adaptées à chaque type de sol et effectuons des poses avec scellement chimique pour une solidité optimale. Nos prestations sont personnalisées pour répondre aux besoins uniques de chaque projet.
             </p>
           </div>
         </div>

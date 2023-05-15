@@ -14,19 +14,19 @@ const Plafondnl = () => {
           <div class="contenu">
             <h1>
               <h1>
-                <span>PLAFOND EN WANDEN</span>
+                <span>PLEISTERWERKEN EN SCHEIDINGSWANDEN</span>
               </h1>
             </h1>
             <p>
-            Wij bieden een plafond- en afwerkingsservice om uw huis, flat of bedrijfspand te verfraaien of te renoveren. Wij garanderen een optimale kwaliteit van afwerking op elk type ondersteuning:
+            Wij beschikken over een dienst stukadoor en afwerking om uw huis, appartement of beroepsruimte te verfraaien of te vernieuwen.
               <ul>
+              <li>Plafonds.</li>
+                <li>Inrichting van zolders.</li>
+                <li>Isolatie.</li>
+                <li>Schoorstenen.</li>
+                <li>Scheidingswanden.</li>
                 <li>Nieuwe muren</li>
                 <li>Oudere muren.</li>
-                <li>Open haarden.</li>
-                <li>Scheidingswanden.</li>
-                <li>Plafonds.</li>
-                <li>Zolderverbouwingen.</li>
-                <li>Isolatie.</li>
               </ul>
             </p>
           </div>

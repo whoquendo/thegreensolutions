@@ -17,20 +17,19 @@ const Façade = () => {
               </h1>
             </h1>
             <p>
-              Vous avez envie de redonner une vie, d’isoler, de moderniser votre
-              façade ou d’assurer son maintien dans le temps : nous sommes à
-              votre disposition pour concrétiser vos projets . Nous vous
-              proposons différents procédés pour que votre bâtiment prenne de la
-              valeur tout simplement:
+            En tant que spécialistes de la rénovation de façades, nous vous accompagnons dans la réalisation de vos projets pour redonner vie à votre bâtiment et améliorer sa durabilité. Nous proposons différents procédés pour répondre à vos besoins: 
               <ul>
-                <li>Nettoyages de façades : tous procédés.</li>
-                <li>Sablage et rejointoiement.</li>
-                <li>Crépi : performant, isolant et esthétique.</li>
-                <li>Hydrofugation : contre l’humidité et la mousse.</li>
+                <li>Isolant et esthétique.</li>
                 <li>Traitement des boiseries.</li>
-                <li>Isolation des murs par l’extérieur.</li>
+                <li>Crépi performant.</li>
+                <li>Nettoyage de façades.</li>
+                <li>Isolation des murs par l'extérieur.</li>
+                <li>Hydrofugation contre l'humidité et la mousse.</li>
               </ul>
             </p>
+           <p>
+           Nous sommes à votre disposition pour vous conseiller et réaliser les travaux nécessaires pour valoriser votre patrimoine immobilier.
+           </p>
           </div>
         </div>
       </main>

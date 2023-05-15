@@ -20,9 +20,9 @@ const Header = () => {
                 <li class="selected" id="menu_1">
                   <a href="/">Accueil</a>
                 </li>
-                <li class="" id="menu_4">
+                {/* <li class="" id="menu_4">
                   <a href="/fr/apropos">À Propos</a>
-                </li>
+                </li> */}
                 <li class="" id="menu_19">
                   <a href="/">Nos services</a>
                   <ul>

@@ -13,7 +13,7 @@ const Footernl = () => {
               <h2>CONTACT US</h2>
               <div className="bloc11">
                 {" "}
-                Voskapelstraat 10 <br /> B-1933 Sterrebeek <br />{" "}
+                Voskapelstraat 8 <br /> B-1933 Sterrebeek <br />{" "}
                 <span className="googlemaps_v2">
                   <label className="modal-label" for="modal_googlemaps_1">
                   Ligging
@@ -35,10 +35,7 @@ const Footernl = () => {
                           <i className="fa fa-times fa-stack-1x fa-inverse"></i>
                         </span>
                       </label>
-                      <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d644648.6903177992!2d4.5170929!3d50.8652571!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xedd33ba6b7ea2a28!2sThe+Garden+Verts!5e0!3m2!1sfr!2sbe!4v1539771525163"
-                        allowfullscreen
-                      ></iframe>
+                      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2517.969802326124!2d4.5150603811574515!3d50.86875879456685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3de9bb9d77f8d%3A0x145744f32e466349!2sVoskapelstraat%2C%201933%20Zaventem!5e0!3m2!1sen!2sbe!4v1684148959452!5m2!1sen!2sbe" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </span>
                   </span>
                 </span>
@@ -53,11 +50,11 @@ const Footernl = () => {
               <div className="bloc13">
                 {" "}
                 <a
-                  href="mailto:thegreensolutions@gmail.com"
+                  href="mailto:thegreensolutionsconstruction@gmail.com"
                   className="adwconversion_email"
-                  data-adwconversion="thegreensolutions@gmail.com"
+                  data-adwconversion="thegreensolutionsconstruction@gmail.com"
                 >
-                  thegreensolutions@gmail.com
+                  thegreensolutionsconstruction@gmail.com
                 </a>
                 <br />
                 BTW : BE 0647.635.544

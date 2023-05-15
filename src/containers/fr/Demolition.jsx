@@ -17,16 +17,10 @@ const Demolition = () => {
               </h1>
             </header>
             <p>
-              Déconstruction partielle ou totale pour tous types de bâtiments,
-              THE GREEN SOLUTIONS vous propose des solutions en passant par
-              toutes les étapes indispensables : du projet jusqu’au
-              démantèlement de la bâtisse ainsi que de l’évacuation des déchets.
-              Notre équipe de professionnels dispose d’outils et engins
-              spécifiques et parfaitement adaptés à ce genre de travaux avec le
-              savoir-faire riche d’une longue expérience dans ce domaine. THE
-              GREEN SOLUTIONS est le partenaire idéal par son sérieux et son
-              professionnalisme pour tous vos projets de rénovation ou de
-              construction nécessitants au préalable une démolition.
+            Déconstruction partielle ou totale pour tous types de bâtiments, THE GREEN SOLUTIONS vous propose des solutions complètes pour toutes les étapes du processus, du projet initial au démantèlement du bâtiment et à l'évacuation des déchets. 
+            </p>
+            <p>
+            Notre équipe de professionnels qualifiés dispose d'outils et d'équipements spécifiques parfaitement adaptés à ce type de travaux, et bénéficie d'une expérience riche dans ce domaine. THE GREEN SOLUTIONS est le partenaire idéal pour tous vos projets de rénovation ou de construction qui nécessitent une démolition préalable, grâce à notre sérieux et à notre professionnalisme
             </p>
           </div>
         </div>

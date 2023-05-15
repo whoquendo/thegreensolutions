@@ -15,16 +15,10 @@ const Chassis = () => {
               <span>CHÂSIS</span>
             </h1>
             <p>
-              Nous sommes des spécialistes dans la pose de châssis, portes et
-              volets. Que ce soit dans une nouvelle construction ou la
-              rénovation, nous vous proposons une large gamme en pvc – aluminium
-              – bois : Entretien facile. Excellente isolation thermique et
-              acoustique. Une très bonne tenue dans le temps. Nombreux styles,
-              coloris et formes. Munis de quincaillerie antieffraction. Portes
-              équipées de serrures de sécurités multipoints. Nos réalisations
-              pourvues de doubles vitrages à haut rendement avec une face
-              sécurisée dès que nécessaire. Nous fabriquons sur mesure les
-              moustiquaires qui s’appliquent à toutes portes et fenêtres.
+            Nous sommes des experts en installation de châssis, portes et volets, que ce soit pour une nouvelle construction ou une rénovation. Nous proposons une large gamme de matériaux en PVC, aluminium et bois, qui offrent de nombreux avantages, notamment une facilité d'entretien, une excellente isolation thermique et acoustique, une grande durabilité, ainsi que de nombreux styles, couleurs et formes. 
+            </p>
+            <p>
+            Toutes nos installations sont équipées d'une quincaillerie antieffraction et nos portes sont dotées de serrures multipoints pour une sécurité accrue. Nous utilisons des doubles vitrages à haut rendement avec une face sécurisée selon les besoins. Nous pouvons également fabriquer sur mesure des moustiquaires pour toutes les portes et fenêtres.
             </p>
           </div>
         </div>

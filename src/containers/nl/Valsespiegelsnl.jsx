@@ -13,11 +13,26 @@ const Valsespiegels = () => {
           <div class="contenu">
             <h1>
               <h1>
-                <span>VALSE SPIEGELS</span>
+                <span>SYSTEEMPLAFOND</span>
               </h1>
             </h1>
             <p>
-            Onze teams zijn opgeleid om verschillende technieken toe te passen. Moet u rekening houden met geluidsisolatie, bijvoorbeeld in een flat of een huis met twee verdiepingen? Geen probleem: zelfdragende plafonds zorgen ervoor dat het geluid van de bovenste verdieping niet te horen is op de verdieping eronder. Moet u zich richten op warmte-isolatie? Kies dan voor verlaagde plafonds. Dit is de ideale oplossing om bijvoorbeeld het volume van zeer grote ruimtes te beperken en het verwarmingsverbruik te verminderen of om technische leidingen te verbergen. De kwaliteit van het voorafgaande bezoek en de daaropvolgende analyse zijn cruciaal.
+              Onze teams zijn opgeleid om verschillende technieken te gebruiken
+              om een optimale akoestische en thermische isolatie te garanderen.
+            </p>
+            <p>
+              Of u nu in een appartement of een huis met twee verdiepingen
+              woont, wij bieden vrijstaande plafonds om te voorkomen dat geluid
+              zich van de bovenverdieping naar de benedenverdieping verspreidt.
+            </p>
+            <p>
+              We bieden ook verlaagde verlaagde plafonds voor effectieve
+              thermische isolatie, vermindering van het verwarmingsverbruik en
+              het verbergen van technische kanalen.
+            </p>
+            <p>
+              De kwaliteit van ons voorafgaand bezoek en de analyse die volgt is
+              essentieel om de tevredenheid van onze klanten te garanderen.
             </p>
           </div>
         </div>

@@ -17,15 +17,21 @@ const Cuisine = () => {
               </h1>
             </h1>
             <p>
-              Nous réalisons et installons sur mesure des cuisines équipées de
-              qualité. Disponible dans un grand choix de coloris et matériaux.
-              Au design contemporain et ancien, elles vous séduiront en
-              apportant le confort et la fonctionnalité que vous recherchez.
-              Votre satisfaction est notre premier objectif. Si vous désirez un
-              devis c’est un service payant avec notre cuisiniste qui vient chez
-              vous. En cas d’acceptation, le montant du devis sera déduit de
-              votre facture globale.
+            Nous créons et installons des cuisines équipées sur mesure de haute qualité pour répondre à vos besoins et à votre style. 
             </p>
+            <p>
+            Avec un large choix de couleurs et de matériaux, nos cuisines modernes et traditionnelles offrent confort et fonctionnalité tout en étant esthétiquement agréables. 
+            <p>
+            Notre priorité est votre satisfaction et nous sommes heureux de fournir des devis personnalisés. 
+            <p>
+            Veuillez noter que nos services de devis sont gratuit, notre cuisiniste peut se déplacer chez vous pour mieux comprendre vos besoins et vous fournir les meilleurs conseils.
+            </p>
+
+            </p>
+
+            </p>
+
+          
           </div>
         </div>
       </main>

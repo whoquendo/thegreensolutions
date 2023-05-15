@@ -22,13 +22,13 @@ const Plaffonage = () => {
               professionnel. On vous assure une qualité de finition optimale sur
               tout type de support :
               <ul>
-                <li>Nouveaux murs</li>
-                <li>Murs plus anciens.</li>
-                <li>Cheminées.</li>
-                <li>Cloisons.</li>
-                <li>Plafonds.</li>
+              <li>Plafonds.</li>
                 <li>Aménagements des combles.</li>
                 <li>Isolation.</li>
+                <li>Cheminées.</li>
+                <li>Cloisons.</li>
+                <li>Nouveaux murs</li>
+                <li>Murs plus anciens.</li>
               </ul>
             </p>
           </div>

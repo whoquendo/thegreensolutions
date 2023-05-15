@@ -14,11 +14,17 @@ const Schilderijnl = () => {
           <div class="contenu">
             <h1>
               <h1>
-                <span>SCHILDERIJ</span>
+                <span>SCHILDERWERKEN</span>
               </h1>
             </h1>
             <p>
-            Voor binnen- en buitenschilderwerk zijn een optimale voorbereiding en het juiste materiaal nodig. Wij verzorgen het hele huis, uw flat of uw bedrijfspand. Binnen- en buitenschilderwerk, alle coatings, tinten en verven.
+            Zowel voor binnen als buiten, is een optimale voorbereiding alsook aangepast materiaal voor alle schilderwerken noodzakelijk.
+            </p>
+            <p>
+            Wij voeren schilderwerken uit in het hele huis, in uw appartement of in uw beroepsruimte.
+            </p>
+            <p>
+            Interne en externe bekledingsverven, kleuren en verven.
             </p>
           </div>
         </div>

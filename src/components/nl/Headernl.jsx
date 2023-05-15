@@ -20,44 +20,44 @@ const Headernl = () => {
                 <li class="selected" id="menu_1">
                   <a href="../../Homenl">Home</a>
                 </li>
-                <li class="" id="menu_4">
+                {/* <li class="" id="menu_4">
                   <a href="/fr/apropos">Over ons</a>
-                </li>
+                </li> */}
                 <li class="" id="menu_19">
                   <a href="/">Onze diensten</a>
                   <ul>
                     <li class="">
-                      <a href="../../Tilingnl">TILING </a>
+                      <a href="../../Tilingnl">TEGELWERKEN</a>
                     </li>
                     <li class="">
-                      <a href="../../Chassisnl">CHASSIS </a>
+                      <a href="../../Chassisnl">RAMEN EN DEUREN </a>
                     </li>
                     <li class="">
                       <a href="../../Keukennl">KEUKEN</a>
                     </li>
                     <li class="">
-                      <a href="../../Demolitienl">DEMOLITIE</a>
+                      <a href="../../Demolitienl">AFBRAAKWERKEN</a>
                     </li>
                     <li class="">
-                      <a href="../../Menuiserienl">MENUISERIE </a>
+                      <a href="../../Menuiserienl">SCHRIJNWERKEN</a>
                     </li>
                     <li class="">
-                      <a href="../../Schilderijnl">SCHILDERIJ </a>
+                      <a href="../../Schilderijnl">SCHILDERWERKEN</a>
                     </li>
                     <li class="">
-                      <a href="../../Plafondnl">PLAFOND EN WANDEN</a>
+                      <a href="../../Plafondnl">PLEISTERWERKEN EN SCHEIDINGSWANDEN</a>
                     </li>
                     <li class="">
-                      <a href="../../Façadenl">FAÇADE. SCHOONMAKEN</a>
+                      <a href="../../Façadenl">GEVELWERKEN</a>
                     </li>
                     <li class="">
-                      <a href="../../Valsespiegelsnl">VALSE SPIEGELS</a>
+                      <a href="../../Valsespiegelsnl">SYSTEEMPLAFOND</a>
                     </li>
                     <li class="">
                       <a href="../../Balustradenl">BALUSTRADE </a>
                     </li>
                     <li class="">
-                      <a href="../../Terrassingnl">TERRASSING</a>
+                      <a href="../../Terrassingnl">TERRASWERKEN</a>
                     </li>
                     <li class="">
                       <a href="../../Daknl">DAK</a>
@@ -103,11 +103,11 @@ const Headernl = () => {
                     <ul>
                         <li class="">
                             <a href="../../Tilingnl">
-                            TILING </a> 
+                            TEGELWERKEN</a> 
                         </li>
                         <li class="">
                             <a href="../../Chassisnl">
-                            CHASSIS </a>
+                            RAMEN EN DEUREN</a>
                         </li>
                         <li class="">
                             <a href="../../Keukennl">
@@ -119,23 +119,23 @@ const Headernl = () => {
                         </li>
                         <li class="">
                             <a href="../../Menuiserienl">
-                            MENUISERIE </a>
+                            SCHRIJNWERKEN</a>
                         </li>
                         <li class="">
                             <a href="../../Schilderijnl">
-                            SCHILDERIJ </a>
+                            SCHILDERWERKEN</a>
                         </li>
                         <li class="">
                             <a href="../../Plafondnl">
-                            PLAFOND EN WANDEN </a>
+                            PLEISTERWERKEN EN SCHEIDINGSWANDEN</a>
                         </li>
                         <li class="">
                             <a href="../../Façadenl">
-                            FAÇADE. SCHOONMAKEN </a>
+                            GEVELWERKEN</a>
                         </li>
                         <li class="">
                             <a href="../../Valsespiegelsnl">
-                            VALSE SPIEGELS </a>
+                            SYSTEEMPLAFOND</a>
                         </li>
                         <li class="">
                             <a href="../../Balustradenl">
@@ -143,7 +143,7 @@ const Headernl = () => {
                         </li>
                         <li class="">
                             <a href="../../Terrassingnl">
-                            TERRASSING </a>
+                            TERRASWERKEN</a>
                         </li>
                         <li class="">
                             <a href="../../Daknl">

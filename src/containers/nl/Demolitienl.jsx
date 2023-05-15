@@ -13,11 +13,17 @@ const Demolitienl = () => {
           <div class="contenu">
             <header>
               <h1>
-                <span>DEMOLITIE</span>
+                <span>AFBRAAKWERKEN</span>
               </h1>
             </header>
             <p>
-            Gedeeltelijke of volledige ontmanteling voor alle soorten gebouwen, THE GREEN SOLUTIONS biedt u oplossingen voor alle noodzakelijke fasen: van het project tot de ontmanteling van het gebouw en de verwijdering van het afval. Ons team van professionals is uitgerust met specifieke gereedschappen en machines die perfect geschikt zijn voor dit soort werk, en beschikt over de knowhow die is opgedaan door jarenlange ervaring op dit gebied. THE GREEN SOLUTIONS is de ideale partner voor al uw renovatie- of bouwprojecten waarbij sloop noodzakelijk is.
+            Gedeeltelijke of volledige afbraak van alle soorten gebouwen, THE GREEN SOLUTIONS biedt u complete oplossingen voor alle stadia van het proces, van het eerste project tot de ontmanteling van het gebouw en de verwijdering van afval.
+            </p>
+            <p>
+            Ons team van gekwalificeerde professionals beschikt over specifiek gereedschap en materiaal dat perfect is aangepast aan dit soort werk en profiteert van een schat aan ervaring op dit gebied.
+            </p>
+            <p>
+            Dankzij onze ernst en ons professionalisme is THE GREEN SOLUTIONS de ideale partner voor al uw renovatie- of bouwprojecten die een voorafgaande afbraak vereisen.
             </p>
           </div>
         </div>

@@ -20,7 +20,7 @@ const Balustradenl = () => {
               </h1>
             </header>
             <p>
-            Op maat gemaakt volgens de situatie (specifieke bevestigingen gebruikt specifieke bevestigingen gebruikt volgens de bodem, installatie met chemische voor stevigheid)
+            Wij creëren oplossingen op maat voor elke situatie. Wij gebruiken specifieke bevestigingen voor elk type vloer en installeren met chemische afdichtingen voor een optimale sterkte. Onze diensten worden aangepast aan de unieke behoeften van elk project.
             </p>
           </div>
         </div>

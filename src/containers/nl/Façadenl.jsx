@@ -13,19 +13,22 @@ const Façadenl = () => {
           <div class="contenu">
             <h1>
               <h1>
-                <span>FAÇADE. SCHOONMAKEN</span>
+                <span>GEVELWERKEN</span>
               </h1>
             </h1>
             <p>
-            Als u uw gevel wilt revitaliseren, isoleren, moderniseren of onderhouden, staan wij tot uw beschikking om uw plannen te verwezenlijken. Wij bieden u verschillende processen om uw gebouw waardevoller te maken:
+            Als specialisten op het gebied van gevelrenovatie ondersteunen wij u bij het uitvoeren van uw projecten om uw gebouw weer tot leven te wekken en te verduurzamen. We bieden verschillende processen om aan uw behoeften te voldoen:
               <ul>
-                <li>gevelreiniging: alle processen.</li>
-                <li>Zandstralen en opnieuw voegen.</li>
-                <li>Gips: efficiënt, isolerend en esthetisch.</li>
-                <li>Waterdichtheid: tegen vocht en mos.</li>
-                <li>Behandeling van houtwerk.</li>
-                <li>Isolatie van muren van buitenaf.</li>
+                <li>Isolerend en esthetisch.</li>
+                <li>Houtbewerking.</li>
+                <li>Hoogwaardig gips.</li>
+                <li>gevelreiniging.</li>
+                <li>Isolatie van buitenmuren.</li>
+                <li>Waterafstotend tegen vocht en schuim.</li>
               </ul>
+            </p>
+            <p>
+            Wij staan ​​tot uw beschikking om u te adviseren en de werkzaamheden uit te voeren die nodig zijn om uw vastgoedactiva te verbeteren.
             </p>
           </div>
         </div>
