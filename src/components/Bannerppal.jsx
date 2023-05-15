@@ -1,7 +1,8 @@
 import React from 'react';
 import imagebanner from '../assets/imagesConstruction/mur_de_briques2.jpeg';
-import logo from '../assets/icons/the_greensolutionsv2.png'
-import Styles from '../styles/banner-ppal.css'
+import logo from '../assets/icons/the_greensolutionsv2.png';
+import logohorizontal from  "../assets/icons/the_greensolutions_horizontal.png";
+import Styles from '../styles/banner-ppal.css';
 
 
 const Bannerppal = () => {
