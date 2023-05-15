@@ -1,6 +1,7 @@
 import React from "react";
 import Headernl from "@components/nl/Headernl";
 import Bannerppal from '@components/Bannerppal';
+import Banner from "@components/Banner";
 import Footernl from "@components/nl/Footernl";
 import "@styles/carousel.css";
 import "@styles/home.css";
@@ -13,7 +14,7 @@ const Fotogalerijnl = () => {
 <Headernl />
 <Bannerppal />
 <div className="divVacio"></div>
-<Carousel />
+<Banner />
 <Footernl />
     </>
   )
