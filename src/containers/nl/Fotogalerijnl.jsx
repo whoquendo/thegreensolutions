@@ -13,8 +13,8 @@ const Fotogalerijnl = () => {
     <>
 <Headernl />
 <Bannerppal />
-<div className="divVacio"></div>
 <Banner />
+<div className="divVacio"></div>
 <Footernl />
     </>
   )

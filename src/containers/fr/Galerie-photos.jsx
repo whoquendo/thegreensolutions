@@ -12,8 +12,8 @@ const Galerie = () => {
     <>
 <Header />
 <Bannerppal />
-<div className="divVacio"></div>
 <Banner />
+<div className="divVacio"></div>
 <Footer/>
     </>
   )
