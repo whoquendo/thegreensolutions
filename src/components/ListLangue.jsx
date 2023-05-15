@@ -15,7 +15,6 @@ const ListLangue = () => {
               alt="The Green Solutions SRL - Entreprise de construction"
             />
           </a>{" "}
-
         </div>
       </section>
     </>

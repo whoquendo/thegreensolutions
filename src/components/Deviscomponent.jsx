@@ -1,17 +1,25 @@
-import React from 'react';
-import logo from "@assets/imagesConstruction/logo_thegreensolutions.png";
-
+import React from "react";
+import Formemail from "./Formemail";
 
 const Deviscomponent = () => {
   return (
+    <>
     <div className="container-general">
-    <div className="container-rendez-vous">
+      <div className="container-rendez-vous">
         <button>
-            <a href="https://calendly.com/thegreensolutionsconstruction/60min?" target="_blank" className="text-rendez-vous">Devis Gratiut</a>
-     </button>
+          <a
+            href="https://calendly.com/thegreensolutionsconstruction/60min?"
+            target="_blank"
+            className="text-rendez-vous"
+          >
+            Demandez votre devis maintenant
+          </a>
+        </button>
+      </div>
+      <Formemail />
     </div>
-    </div>
-  )
-}
+    </>
+  );
+};
 
-export default Deviscomponent
+export default Deviscomponent;

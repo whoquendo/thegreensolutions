@@ -29,6 +29,7 @@
     "webpack-dev-server": "^4.11.1"
   },
   "devDependencies": {
+    "@emailjs/browser": "^3.11.0",
     "css-loader": "^6.7.3",
     "file-loader": "^6.2.0",
     "flat-carousel": "^0.0.1",
