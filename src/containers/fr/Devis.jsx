@@ -13,9 +13,7 @@ const Devis = () => {
      <>
     <Header />
     <Bannerppal />
-
     <Deviscomponent />
-
     <Footer />
 
     </>

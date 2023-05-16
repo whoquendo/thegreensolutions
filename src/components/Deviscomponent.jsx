@@ -1,5 +1,6 @@
 import React from "react";
 import Formemail from "./Formemail";
+import '@styles/devis.css'
 
 const Deviscomponent = () => {
   return (
@@ -10,13 +11,14 @@ const Deviscomponent = () => {
           <a
             href="https://calendly.com/thegreensolutionsconstruction/60min?"
             target="_blank"
-            className="text-rendez-vous"
-          >
-            Demandez votre devis maintenant
+            className="text-rendez-vous">
+            Demandez de devis maintenant
           </a>
         </button>
       </div>
+      <div className="container-email">
       <Formemail />
+      </div>
     </div>
     </>
   );

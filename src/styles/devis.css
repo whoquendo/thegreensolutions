@@ -1,0 +1,28 @@
+.container-general {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.container-rendez-vous button {
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+    font-size: 2em;
+    background-color: #167544;
+}
+
+.container-rendez-vous button a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+
+@media (max-width:640px) {
+    .container-general {
+        flex-direction: column;
+    }
+}
+

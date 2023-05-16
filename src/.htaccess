@@ -4,3 +4,5 @@
   RewriteRule ^ - [L]
 
   RewriteRule ^ /index.html [L]
+
+  /* /index.html 200

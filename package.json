@@ -1,5 +1,6 @@
 {
   "name": "react-shop",
+  "homepage": "https://thegreensolutions.be",
   "version": "1.0.0",
   "description": "The green solutions",
   "main": "src/index.js",
