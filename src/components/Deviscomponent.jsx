@@ -17,6 +17,7 @@ const Deviscomponent = () => {
         </button>
       </div>
       <div className="container-email">
+        <h3>CONTACT</h3>
       <Formemail />
       </div>
     </div>
