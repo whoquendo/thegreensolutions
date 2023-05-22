@@ -54,7 +54,7 @@ const Footer1 = () => {
               href="mailto:thegreensolutionsconstruction@gmail.com"
               data-adwconversion="thegreensolutionsconstruction@gmail.com"
             >
-              thegreensolutionsconstruction@gmail.com
+              
             </a>
           </div>
         </div>
