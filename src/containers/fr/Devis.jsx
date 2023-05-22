@@ -1,21 +1,17 @@
 import React from "react";
-import logo from "@assets/imagesConstruction/logo_thegreensolutions.png";
-import Header from '@components/Header';
+import Navbar from "@components/Navbar";
 import Bannerppal from "@components/Bannerppal";
 import Deviscomponent from "@components/Deviscomponent";
-import Footer from "../../components/Footer";
-
-
+import Footer1 from "@components/Footer1";
+import logo from "@assets/imagesConstruction/logo_thegreensolutions.png";
 
 const Devis = () => {
   return (
-
-     <>
-    <Header />
-    <Bannerppal />
-    <Deviscomponent />
-    <Footer />
-
+    <>
+      <Navbar />
+      <Bannerppal />
+      <Deviscomponent />
+      <Footer1 />
     </>
   );
 };

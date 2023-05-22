@@ -1,13 +1,12 @@
 import React from "react";
-import Headernl from "@components/nl/Headernl";
+import Navbarnl from "@components/nl/Navbarnl";
 import Bannerppal from "@components/Bannerppal";
-import Footernl from "@components/nl/Footernl";
-
+import Footer1nl from "@components/nl/footer1nl";
 
 const Menuiserienl = () => {
   return (
     <>
-      <Headernl />
+      <Navbarnl />
       <Bannerppal />
       <main class="content-wrapper">
         <div class="container">
@@ -18,14 +17,14 @@ const Menuiserienl = () => {
               </h1>
             </h1>
             <p>
-            Onze vaardigheden als timmerman voor uw buiten- en buitenbeplanting, wij zorgen voor uw project van ontwerp tot voltooiing.
+              Onze vaardigheden als timmerman voor uw buiten- en
+              buitenbeplanting, wij zorgen voor uw project van ontwerp tot
+              voltooiing.
               <ul>
                 <h3>Buitenbeplanting met levering en installatie:</h3>
                 <li>Houten chassis.</li>
                 <li>Houten terras.</li>
-                <li>
-                Houten trap.
-                </li>
+                <li>Houten trap.</li>
                 <li>Bekleding.</li>
               </ul>
               <ul>
@@ -40,7 +39,7 @@ const Menuiserienl = () => {
           </div>
         </div>
       </main>
-      <Footernl />
+      <Footer1nl />
     </>
   );
 };

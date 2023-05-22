@@ -1,24 +1,22 @@
-import React from 'react';
-import Header from '@components/Header';
-import Footer from '@components/Footer';
-import Banner from '@components/Banner';
-import Carousel from '@components/Carousel';
-import Services from '@components/Services';
-import AvantServices from '../components/AvantServices';
-import Realisations from  '../components/Realisations';
-import Styles from '../styles/home.css'
-import Bannerppal from '@components/Bannerppal';
+import React from "react";
+import Navbar from "@components/Navbar";
+import Bannerppal from "@components/Bannerppal";
+import Banner from "@components/Banner";
+import Services from "@components/Services";
+import Footer1 from "@components/Footer1";
+import Styles from "@styles/home.css";
+
 
 const Home = () => {
   return (
     <>
-      <Header />
+      <Navbar />
       <Bannerppal />
-      <h1 className='title-galerie-photos'>GALERIE - PHOTOS</h1>
-    <Banner />
-     <div className='divVacio'></div>
+      <h1 className="title-galerie-photos">GALERIE - PHOTOS</h1>
+      <Banner />
+      <div className="divVacio"></div>
       <Services />
-    <Footer />
+      <Footer1 />
     </>
   );
 };

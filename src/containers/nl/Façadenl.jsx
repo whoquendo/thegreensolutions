@@ -1,12 +1,12 @@
 import React from "react";
-import Headernl from "@components/nl/Headernl";
-import Bannerppal from '@components/Bannerppal';
-import Footernl from "@components/nl/Footernl";
+import Navbarnl from "@components/nl/Navbarnl";
+import Bannerppal from "@components/Bannerppal";
+import Footer1nl from "@components/nl/footer1nl";
 
 const Façadenl = () => {
   return (
     <>
-      <Headernl />
+      <Navbarnl />
       <Bannerppal />
       <main class="content-wrapper">
         <div class="container">
@@ -33,7 +33,7 @@ const Façadenl = () => {
           </div>
         </div>
       </main>
-      <Footernl />
+      <Footer1nl />
     </>
   );
 };

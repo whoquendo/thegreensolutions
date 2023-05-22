@@ -1,15 +1,12 @@
 import React from "react";
-import Header from "@components/Header";
+import Navbarnl from "@components/nl/Navbarnl";
 import Bannerppal from '@components/Bannerppal';
-import Footernl from "@components/nl/Footernl";
-import CarouselMultiple from "@components/CarouselMultiple";
-import Headernl from "../../components/nl/Headernl";
-
+import Footer1nl from "@components/nl/footer1nl";
 
 const Balustradenl = () => {
   return (
     <>
-    <Headernl />
+    <Navbarnl />
     <Bannerppal />
       <main class="content-wrapper">
         <div class="container">
@@ -24,14 +21,11 @@ const Balustradenl = () => {
             </p>
           </div>
         </div>
-        <section>
+        {/* <section>
           <h1>Ons werk in Balustrade</h1>
-          <div>
-          {/* <CarouselMultiple /> */}
-          </div>
-        </section>
+        </section> */}
       </main>
-      <Footernl />
+      <Footer1nl />
     </>
   );
 };

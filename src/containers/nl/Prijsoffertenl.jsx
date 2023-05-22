@@ -1,18 +1,16 @@
 import React from "react";
-import logo from "@assets/imagesConstruction/logo_thegreensolutions.png";
-import Headernl from '@components/nl/Headernl';
+import Navbarnl from "@components/nl/Navbarnl";
 import Bannerppal from "@components/Bannerppal";
-import Deviscomponentnl from "../../components/nl/Deviscomponentnl";
-import Footernl from "@components/nl/Footernl";
-
+import Deviscomponentnl from "@components/nl/Deviscomponentnl";
+import Footer1nl from "@components/nl/footer1nl";
 
 const Prijsoffertenl = () => {
   return (
     <>
-    <Headernl />
+    <Navbarnl />
     <Bannerppal />
     <Deviscomponentnl />
-    <Footernl />
+    <Footer1nl />
     </>
   );
 };

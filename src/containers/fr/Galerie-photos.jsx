@@ -1,22 +1,19 @@
 import React from "react";
-import Header from "@components/Header";
+import Navbar from "@components/Navbar";
 import Bannerppal from "@components/Bannerppal";
 import Banner from "@components/Banner";
-import Footer from "@components/Footer";
-import "@styles/carousel.css";
-import Carousel from "@components/Carousel";
-
+import Footer1 from "@components/Footer1";
 
 const Galerie = () => {
   return (
     <>
-<Header />
-<Bannerppal />
-<Banner />
-<div className="divVacio"></div>
-<Footer/>
+      <Navbar />
+      <Bannerppal />
+      <Banner />
+      <div className="divVacio"></div>
+      <Footer1 />
     </>
-  )
+  );
 };
 
 export default Galerie;

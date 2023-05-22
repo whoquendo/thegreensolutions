@@ -4,10 +4,14 @@
     justify-content: space-around;
 }
 
+.container-rendez-vous {
+    width: 400px;
+}
+
 .container-rendez-vous button {
     width: 100%;
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 50px;
     border: none;
     font-size: 2em;
     background-color: #167544;

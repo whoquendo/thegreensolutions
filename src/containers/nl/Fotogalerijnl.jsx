@@ -1,21 +1,19 @@
 import React from "react";
-import Headernl from "@components/nl/Headernl";
+import Navbarnl from "@components/nl/Navbarnl";
 import Bannerppal from '@components/Bannerppal';
 import Banner from "@components/Banner";
-import Footernl from "@components/nl/Footernl";
+import Footer1nl from "@components/nl/footer1nl";
 import "@styles/carousel.css";
 import "@styles/home.css";
-import Carousel from "@components/Carousel";
-
 
 const Fotogalerijnl = () => {
   return (
     <>
-<Headernl />
+<Navbarnl />
 <Bannerppal />
 <Banner />
 <div className="divVacio"></div>
-<Footernl />
+<Footer1nl />
     </>
   )
 };

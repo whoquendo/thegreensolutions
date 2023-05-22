@@ -1,12 +1,12 @@
 import React from "react";
-import Header from "@components/Header";
+import Navbar from "@components/Navbar";
 import Bannerppal from "@components/Bannerppal";
-import Footer from "@components/Footer";
+import Footer1 from "@components/Footer1";
 
 const Fauxplafonds = () => {
   return (
     <>
-      <Header />
+      <Navbar />
       <Bannerppal />
       <main class="content-wrapper">
         <div class="container">
@@ -37,7 +37,7 @@ const Fauxplafonds = () => {
           </div>
         </div>
       </main>
-      <Footer />
+      <Footer1 />
     </>
   );
 };

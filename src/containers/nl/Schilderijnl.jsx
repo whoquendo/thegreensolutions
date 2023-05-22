@@ -1,13 +1,13 @@
 import React from "react";
-import Headernl from "@components/nl/Headernl";
+import Navbarnl from "@components/nl/Navbarnl";
 import Bannerppal from "@components/Bannerppal";
-import Footernl from "@components/nl/Footernl";
+import Footer1nl from "@components/nl/footer1nl";
 
 
 const Schilderijnl = () => {
   return (
     <>
-      <Headernl />
+      <Navbarnl />
       <Bannerppal />
       <main class="content-wrapper">
         <div class="container">
@@ -29,7 +29,7 @@ const Schilderijnl = () => {
           </div>
         </div>
       </main>
-      <Footernl />
+      <Footer1nl />
     </>
   );
 };

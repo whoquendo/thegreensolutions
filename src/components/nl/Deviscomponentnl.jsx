@@ -1,6 +1,6 @@
 import React from "react";
 import Formemail from "../Formemail";
-import '@styles/devis.css'
+import '../../styles/devis.css';
 
 const Deviscomponentnl = () => {
   return (

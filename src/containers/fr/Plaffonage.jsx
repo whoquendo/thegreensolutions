@@ -1,12 +1,12 @@
 import React from "react";
-import Header from "@components/Header";
+import Navbar from "@components/Navbar";
 import Bannerppal from "@components/Bannerppal";
-import Footer from "@components/Footer";
+import Footer1 from "@components/Footer1";
 
 const Plaffonage = () => {
   return (
     <>
-      <Header />
+      <Navbar />
       <Bannerppal />
       <main class="content-wrapper">
         <div class="container">
@@ -22,7 +22,7 @@ const Plaffonage = () => {
               professionnel. On vous assure une qualité de finition optimale sur
               tout type de support :
               <ul>
-              <li>Plafonds.</li>
+                <li>Plafonds.</li>
                 <li>Aménagements des combles.</li>
                 <li>Isolation.</li>
                 <li>Cheminées.</li>
@@ -34,7 +34,7 @@ const Plaffonage = () => {
           </div>
         </div>
       </main>
-      <Footer />
+      <Footer1 />
     </>
   );
 };

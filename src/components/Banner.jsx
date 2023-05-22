@@ -8,8 +8,9 @@ const Banner = () => {
  const data =images;
 
       const captionStyle = {
-        fontSize: '2em',
+        fontSize: '1em',
         fontWeight: 'bold',
+        
       }
       const slideNumberStyle = {
         fontSize: '20px',

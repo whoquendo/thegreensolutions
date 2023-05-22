@@ -1,12 +1,12 @@
 import React from "react";
-import Header from "@components/Header";
+import Navbar from "@components/Navbar";
 import Bannerppal from "@components/Bannerppal";
-import Footer from "@components/Footer";
+import Footer1 from "@components/Footer1";
 
 const Cuisine = () => {
   return (
     <>
-      <Header />
+      <Navbar />
       <Bannerppal />
       <main class="content-wrapper">
         <div class="container">
@@ -26,16 +26,12 @@ const Cuisine = () => {
             <p>
             Veuillez noter que nos services de devis sont gratuit, notre cuisiniste peut se déplacer chez vous pour mieux comprendre vos besoins et vous fournir les meilleurs conseils.
             </p>
-
             </p>
-
             </p>
-
-          
           </div>
         </div>
       </main>
-      <Footer />
+      <Footer1 />
     </>
   );
 };
