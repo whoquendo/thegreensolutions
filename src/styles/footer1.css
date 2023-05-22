@@ -121,6 +121,10 @@ h6 {
     margin: 5px;
 }
 
+.div-email a {
+    font-size: calc(0.8em + 0.5vw);
+}
+
 .item2 {
     width: 33%;
     height: 100%;
