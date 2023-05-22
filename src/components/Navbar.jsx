@@ -67,7 +67,7 @@ const Navbar = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="">
+                  <a href="/Homees">
                     <img src={espana} alt="langue-ES" />
                   </a>
                 </li>

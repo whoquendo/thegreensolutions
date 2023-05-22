@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import logo from "../../assets/icons/the_greensolutions_horizontal.png";
+import logo from "../../assets/icons/the_greensolutions_horizontal.png"
 import iconmenu from "../../assets/icons/icon-menu.png";
 import iconclose from "../../assets/icons/icon_close.png";
 import espana from "../../assets/icons/espana.png";
@@ -7,7 +7,7 @@ import belgica from "../../assets/icons/belgica.png";
 import paisesbajos from "../../assets/icons/paises-bajos.png";
 import "../../styles/navbar.css";
 
-const Navbarnl = () => {
+const Navbares = () => {
   const [toggleMenu, setToggleMenu] = useState(false);
 
   const handleToggleMenu = () => {
@@ -33,21 +33,21 @@ const Navbarnl = () => {
             className="menu"
           />
           <div class="navbar-left">
-            <a href="/Homenl">
+            <a href="/Homees">
               <img src={logo} alt="logo" className="logo" />
             </a>
             <ul>
               <li>
-                <a href="/Homenl">Home</a>
+                <a href="/Homees">Home</a>
               </li>
               <li className="list" onClick={handleToggleMenu}>
-                <a>Onze diensten</a>
+                <a>Nuestros Servicios</a>
               </li>
               <li>
-                <a href="/Fotogalerijnl">Foto galerij</a>
+                <a href="/Galerie-photos">Galeria de fotos</a>
               </li>
               <li>
-                <a href="/Prijsoffertenl">Prijsofferte - Contact</a>
+                <a href="/Cotizaciones">Cotización - contacto</a>
               </li>
             </ul>
           </div>
@@ -55,20 +55,20 @@ const Navbarnl = () => {
             <ul>
               <li class="item-langue" onClick={handleToggleLangue}>
                 <a>
-                  <img src={paisesbajos} alt="" />
+                  <img src={espana} alt="langue-ES" />
                 </a>
               </li>
             </ul>
             {toggleLangue && (
               <ul className="menu-languages">
                 <li>
-                  <a href="/">
-                    <img src={belgica} alt="langue-NL" />
+                  <a href="/Homenl">
+                    <img src={paisesbajos} alt="langue-NL" />
                   </a>
                 </li>
                 <li>
-                  <a href="/Homees">
-                    <img src={espana} alt="langue-ES" />
+                  <a href="/">
+                    <img src={belgica} alt="langue-BE" />
                   </a>
                 </li>
               </ul>
@@ -80,47 +80,50 @@ const Navbarnl = () => {
                 <img src={iconclose} alt="Close" />
               </span>
               <li class="">
-                <a href="../../Tilingnl">TEGELWERKEN</a>
+                <a href="Baldosaes">BALDOSA </a>
               </li>
               <li class="">
-                <a href="../../Chassisnl">RAMEN EN DEUREN </a>
+                <a href="Marcoes">MARCO </a>
               </li>
               <li class="">
-                <a href="../../Keukennl">KEUKEN</a>
+                <a href="Cocinaes">COCINAS</a>
               </li>
               <li class="">
-                <a href="../../Demolitienl">AFBRAAKWERKEN</a>
+                <a href="Demoliciones">DEMOLICIÓN </a>
               </li>
               <li class="">
-                <a href="../../Menuiserienl">SCHRIJNWERKEN</a>
+                <a href="Carpinteriaes">CARPINTERIA </a>
               </li>
               <li class="">
-                <a href="../../Schilderijnl">SCHILDERWERKEN</a>
+                <a href="Pinturaes">PINTURA </a>
               </li>
               <li class="">
-                <a href="../../Plafondnl">PLEISTERWERKEN EN SCHEIDINGSWANDEN</a>
+                <a href="Plaffonagees">PLAFONNAGE ET CLOISON </a>
               </li>
               <li class="">
-                <a href="../../Façadenl">GEVELWERKEN</a>
+                <a href="Fachadaes">FACHADA. LIMPIEZA </a>
               </li>
               <li class="">
-                <a href="../../Valsespiegelsnl">SYSTEEMPLAFOND</a>
+                <a href="Cielorrasoes">CIELORRASO </a>
               </li>
               <li class="">
-                <a href="../../Balustradenl">BALUSTRADE </a>
+                <a href="Balustradaes">BALUSTRADA </a>
               </li>
               <li class="">
-                <a href="../../Terrassingnl">TERRASWERKEN</a>
+                <a href="Terrassementes">TERRASSEMENT </a>
               </li>
               <li class="">
-                <a href="../../Daknl">DAK</a>
+                <a href="Techoses">TECHOS </a>
               </li>
-              <li class="item-menu-mobil">
-                <a href="../../Fotogalerijnl">Foto galerij</a>
-              </li>
-              <li class="item-menu-mobil">
-                <a href="../../Prijsoffertenl">PRIJSOFFERTE - CONTACT</a>
-              </li>
+                <li className="item-menu-mobil">
+                    <a href="Galerie-photos">
+                        Galeria de fotos</a>
+                </li>
+                <li className="item-menu-mobil">
+                    <a href="Cotizaciones">
+                        Cotización - contacto</a>
+                </li>
+              
             </ul>
           )}
         </nav>
@@ -129,4 +132,4 @@ const Navbarnl = () => {
   );
 };
 
-export default Navbarnl;
+export default Navbares;

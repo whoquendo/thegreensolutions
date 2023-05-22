@@ -3,7 +3,7 @@ import Navbarnl from '@components/nl/Navbarnl';
 import Footer1nl from '../../components/nl/footer1nl';
 import Banner from '@components/Banner';
 import Bannerppal from '@components/Bannerppal';
-import Services from '../../components/Services';
+import Servicesnl from '../../components/nl/Servicesnl';
 import Styles from '../../styles/home.css'
 
 const Home = () => {
@@ -11,10 +11,10 @@ const Home = () => {
     <>
       <Navbarnl />
       <Bannerppal />
-      <h1 className='title-galerie-photos'>FOTOGALERIJ</h1>
+      <h1 className='title-galerie-photos'>FOTO GALERIJ</h1>
      <Banner />
      <div className='divVacio'></div>
-      <Services />
+      <Servicesnl />
     <Footer1nl />
     </>
   );

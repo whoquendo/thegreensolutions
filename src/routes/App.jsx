@@ -33,6 +33,20 @@ import Schilderijnl from '../containers/nl/Schilderijnl';
 import Plafondnl from '../containers/nl/Plafondnl';
 import Terrassingnl from '../containers/nl/Terrassingnl';
 import Daknl from '../containers/nl/Daknl';
+import Homees from '../pages/es/Homees';
+import Baldosaes from '../containers/es/Baldosaes';
+import Marcoes from '../containers/es/Marcoes';
+import Cocinaes from '../containers/es/Cocinaes';
+import Demoliciones from '../containers/es/Demoliciones';
+import Carpinteriaes from '../containers/es/Carpinteriaes';
+import Pinturaes from '../containers/es/Pinturaes';
+import Plaffonagees from '../containers/es/Plaffonagees';
+import Fachadaes from '../containers/es/Fachadaes';
+import Cielorrasoes from '../containers/es/Cielorrasoes';
+import Balustradaes from '../containers/es/Balustradaes';
+import Terrassementes from '../containers/es/Terrassementes';
+import Techoses from '../containers/es/Techoses';
+import Cotizaciones from '../containers/es/Cotizaciones';
 
 const App = () => {
     return (
@@ -69,6 +83,20 @@ const App = () => {
                 <Route exact path='/Plafondnl' element={<Plafondnl />} />
                 <Route exact path='/Terrassingnl' element={<Terrassingnl />} />
                 <Route exact path='/Daknl' element={<Daknl />} />
+                <Route exact path='/Homees' element={<Homees />} />
+                <Route exact path='/Baldosaes' element={<Baldosaes />} />
+                <Route exact path='/Marcoes' element={<Marcoes />} />
+                <Route exact path='/Cocinaes' element={<Cocinaes />} />
+                <Route exact path='/Demoliciones' element={<Demoliciones />} />
+                <Route exact path='/Carpinteriaes' element={<Carpinteriaes />} />
+                <Route exact path='/Pinturaes' element={<Pinturaes />} />
+                <Route exact path='/Plaffonagees' element={<Plaffonagees />} />
+                <Route exact path='/Fachadaes' element={<Fachadaes />} />
+                <Route exact path='/Cielorrasoes' element={<Cielorrasoes />} />
+                <Route exact path='/Balustradaes' element={<Balustradaes />} />
+                <Route exact path='/Terrassementes' element={<Terrassementes />} />
+                <Route exact path='/Techoses' element={<Techoses />} />
+                <Route exact path='/Cotizaciones' element={<Cotizaciones />} />
                 <Route path= "*" element={<NotFound />} />
         </Routes>
         </Layout>

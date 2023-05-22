@@ -3,7 +3,6 @@ import Navbarnl from "@components/nl/Navbarnl";
 import Bannerppal from "@components/Bannerppal";
 import Footer1nl from "@components/nl/footer1nl";
 
-
 const Schilderijnl = () => {
   return (
     <>
@@ -18,13 +17,14 @@ const Schilderijnl = () => {
               </h1>
             </h1>
             <p>
-            Zowel voor binnen als buiten, is een optimale voorbereiding alsook aangepast materiaal voor alle schilderwerken noodzakelijk.
+              Zowel voor binnen als buiten vragen schilderwerken om een optimale
+              voorbereiding en aangepast materiaal.
             </p>
             <p>
-            Wij voeren schilderwerken uit in het hele huis, in uw appartement of in uw beroepsruimte.
+              Wij zorgen voor uw woning, appartement of professioneel lokaal.
             </p>
             <p>
-            Interne en externe bekledingsverven, kleuren en verven.
+              Binnen- en buitenschilderwerk. Alle coatings, tinten en verven. 
             </p>
           </div>
         </div>

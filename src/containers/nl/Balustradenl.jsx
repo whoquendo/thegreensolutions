@@ -1,13 +1,13 @@
 import React from "react";
 import Navbarnl from "@components/nl/Navbarnl";
-import Bannerppal from '@components/Bannerppal';
+import Bannerppal from "@components/Bannerppal";
 import Footer1nl from "@components/nl/footer1nl";
 
 const Balustradenl = () => {
   return (
     <>
-    <Navbarnl />
-    <Bannerppal />
+      <Navbarnl />
+      <Bannerppal />
       <main class="content-wrapper">
         <div class="container">
           <div class="contenu">
@@ -17,7 +17,11 @@ const Balustradenl = () => {
               </h1>
             </header>
             <p>
-            Wij creëren oplossingen op maat voor elke situatie. Wij gebruiken specifieke bevestigingen voor elk type vloer en installeren met chemische afdichtingen voor een optimale sterkte. Onze diensten worden aangepast aan de unieke behoeften van elk project.
+              Wij creëren oplossingen op maat voor elke situatie. Wij gebruiken
+              specifieke fixatie aangepast aan elk soort bodem en voeren
+              plaatsing uit van chemische afdichting voor een optimale
+              stevigheid. Om tegemoet te komen aan de unieke behoeftes van ieder
+              project zijn onze prestaties gepersonaliseerd.
             </p>
           </div>
         </div>

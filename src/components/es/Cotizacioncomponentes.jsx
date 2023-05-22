@@ -2,7 +2,7 @@ import React from "react";
 import Formemail from "../Formemail";
 import '../../styles/devis.css';
 
-const Deviscomponentnl = () => {
+const Deviscomponentes = () => {
   return (
     <>
     <div className="container-general">
@@ -12,7 +12,7 @@ const Deviscomponentnl = () => {
             href="https://calendly.com/thegreensolutionsconstruction/60min?"
             target="_blank"
             className="text-rendez-vous">
-            Vraag een gratis offerte aan
+            Solicite una cotización ahora
           </a>
         </button>
       </div>
@@ -24,4 +24,4 @@ const Deviscomponentnl = () => {
   );
 };
 
-export default Deviscomponentnl;
+export default Deviscomponentes;

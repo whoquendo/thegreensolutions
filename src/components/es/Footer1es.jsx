@@ -8,7 +8,7 @@ import facebookicon from "@assets/icons/icon-facebook.png";
 import instagramicon from "@assets/icons/icon-instagram.png";
 import "../../styles/footer1.css";
 
-const Footer1nl = () => {
+const Footer1es = () => {
   const [modalMaps, setModalMaps] = useState(false);
 
   const openModalMaps = () => {
@@ -18,7 +18,7 @@ const Footer1nl = () => {
   return (
     <footer className="et-footer">
       <div className="item1">
-        <h2>CONTACTEER ONS</h2>
+        <h2>CONTACTO</h2>
         <div className="cotainer-adresse">
           <div>
             <img src={ubicacionicon} alt="" />
@@ -28,7 +28,7 @@ const Footer1nl = () => {
               Voskapelstraat 8 <br /> B-1933 Sterrebeek <br />{" "}
             </h6>
             <span>
-              <a onClick={openModalMaps}>Ligging</a>
+              <a onClick={openModalMaps}>Ver mapa</a>
             </span>
           </div>
         </div>
@@ -84,40 +84,40 @@ const Footer1nl = () => {
         </div>
       </div>
       <div className="item3">
-        <h2>BEREIKBAAR</h2>
+        <h2>HORARIOS</h2>
         <div className="jour">
           <h6>
-          MA <span> ------- </span>
+          LU <span> ------- </span>
           </h6>
           <h6> &nbsp; Entre 08:00 - 19:00</h6>
         </div>
         <div className="jour">
           <h6>
-            DI <span> ------- </span>
+            MA <span> ------- </span>
           </h6>
           <h6> &nbsp; Entre 08:00 - 19:00</h6>
         </div>
         <div className="jour">
           <h6>
-          WO <span> ------- </span>
+          MI <span> ------- </span>
           </h6>
           <h6> &nbsp; Entre 08:00 - 19:00</h6>
         </div>
         <div className="jour">
           <h6>
-            DO <span> ------- </span>
+            JU <span> ------- </span>
           </h6>
           <h6> &nbsp; Entre 08:00 - 19:00</h6>
         </div>
         <div className="jour">
           <h6>
-          VR <span> ------- </span>
+          VI <span> ------- </span>
           </h6>
           <h6> &nbsp; Entre 08:00 - 19:00</h6>
         </div>
         <div className="jour">
           <h6>
-            ZA <span> ------- </span>
+            SA <span> ------- </span>
           </h6>
           <h6> &nbsp; Entre 09:00 - 14:00</h6>
         </div>
@@ -142,4 +142,4 @@ const Footer1nl = () => {
   );
 };
 
-export default Footer1nl;
+export default Footer1es;

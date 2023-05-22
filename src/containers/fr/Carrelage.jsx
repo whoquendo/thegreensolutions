@@ -17,7 +17,7 @@ const Carrelage = () => {
             </h1>
             <p>
               Nos experts en carrelage sont prêts à relever n'importe quel défi,
-              qu'il s'agisse d'une nouvelle installation, d'une rénovation ou
+              qu'il s'agisse d'une nouvelle construction, d'une rénovation ou
               d'une réparation de bâtiment.
             </p>
             <p>

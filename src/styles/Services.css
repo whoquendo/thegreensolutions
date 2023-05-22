@@ -5,7 +5,6 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-
 }
 
 .items-services {
@@ -23,7 +22,7 @@
 
   .title-service {
     position: absolute;
-    margin: 150px 120px;
+    text-align: center;
   }
   
   .div-imagen > div {

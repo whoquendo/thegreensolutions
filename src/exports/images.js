@@ -48,98 +48,98 @@ import tuyau_electricite from '@imagesConstruction/tuyau_electricite.jpeg';
 export default [
     { 
         image:  chambre_et_scalier,
-         caption: `chambre_et_<br />scalier`
+        //  caption: `chambre_et_<br />escalier`
         },
          
         { 
         image: chambre,
-         caption:`chambre`  
+        //  caption:`chambre`  
         },
             { 
         image: façade_en_construction,
-         caption:`façade_en_<br />construction` 
+        //  caption:`façade_en_<br />construction` 
         },
             { 
         image: façade_space_fenetre,
-         caption:`façade_space_<br />fenetre`  
+        //  caption:`façade_avec_espace_<br />fenêtre `  
         },
             { 
         image: façade_space_fenetres_et_echafaudage,
-         caption: `façade_space_<br />fenetres_<br />
-         et_echafaudage` 
+        //  caption: `façade_avec_espace _<br />fenêtres_<br />
+        //  et_échafaudage` 
         },
             { 
         image: finition_de_mur,
-         caption:`finition_de_mur`  
+        //  caption:`finition_de_mur`  
         },
             { 
         image: maison_et_terrase_en_carralage,
-         caption:`maison_et_<br />terrase_en<br />_carralage`  
+        //  caption:`maison_et_<br />terrasse_en<br />_carrelage`  
         },
             { 
         image: maison_et_terrasse_avec_materiaux,
-         caption:`maison_et_<br />terrasse_avec<br />_materiaux`  
+        //  caption:`maison_et_<br />terrasse_avec<br />_materiaux`  
         },
             { 
         image: mur_de_briques2,
-         caption:`mur_de_briques2`  
+        //  caption:`mur_de_briques2`  
         },
             { 
         image: mur_avec_fer,
-         caption:`mur_avec_fer`  
+        //  caption:`mur_avec_fer`  
         },
            { 
         image:  mur_de_briques,
-         caption:` mur_de_briques`  
+        //  caption:` mur_de_briques`  
         },
             { 
         image: mur_de_briques3,
-         caption:`mur_de_briques3`  
+        //  caption:`mur_de_briques3`  
         },
             { 
         image: peinture,
-         caption:`peinture`  
+        //  caption:`peinture`  
         },
          { 
         image: peinture2,
-         caption:`peinture2`
+        //  caption:`peinture2`
         },
             { 
         image: plafond_avec_cables_electricite,
-         caption:`plafond_avec<br />cables_electricite`  
+        //  caption:`plafond_avec<br />câbles_électricité`  
         },
             { 
         image: plafond_avec_cables_electricite2,
-         caption:`plafond_avec<br />cables_electricite2`  
+        //  caption:`plafond_avec<br />câbles_électricité2`  
         },
             { 
         image: plafond,
-         caption:`plafond`  
+        //  caption:`plafond`  
         },
          { 
         image: plafond2,
-         caption:`plafond2`  
+        //  caption:`plafond2`  
         },
            { 
         image:  plafond3,
-         caption: `plafond32`
+        //  caption: `plafond32`
         },
         { 
             image: plafond2,
-             caption:`plafond4`  
+            //  caption:`plafond4`  
             },
            { 
         image:  toit_en_construction,
-         caption:`toit_en_construction`  
+        //  caption:`toit_en_construction`  
         },
             { 
         image: travailleur_sur_lechafaudage,
-         caption:`travailleur_sur<br />lechafaudage`  
+        //  caption:`travailleur_sur<br />l'échafaudage`  
         },
         
             { 
         image: tuyau_electricite,
-         caption:`tuyau_electricite`  
+        //  caption:`tuyau_électricité`  
         }
 ]
 

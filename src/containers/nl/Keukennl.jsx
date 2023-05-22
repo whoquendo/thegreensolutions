@@ -18,10 +18,12 @@ const Keuken = () => {
               </h1>
             </h1>
             <p>
-            Wij ontwerpen en installeren hoogwaardige, op maat gemaakte inbouwkeukens die voldoen aan uw wensen en stijl. Met een ruime keuze aan kleuren en materialen bieden onze moderne en traditionele keukens comfort en functionaliteit en zijn ze tegelijkertijd esthetisch aantrekkelijk.
+            Om aan uw behoefte en stijl te voldoen creëren en plaatsen wij op maat gemaakte ingerichte keukens van hoge kwaliteit.
+            Met een ruime keuze aan kleuren en materialen bieden onze keukens comfort en functionaliteit en zijn esthetisch aangenaam.
             </p>
             <p>
-            Onze prioriteit is uw tevredenheid en wij maken graag persoonlijke offertes. Er zijn kosten verbonden aan onze offertediensten, maar als u ons voorstel aanvaardt, wordt het bedrag in mindering gebracht op uw eindrekening. Bovendien kan onze keukenontwerper uw huis bezoeken om uw behoeften beter te begrijpen en u het beste advies te geven.
+            Onze prioriteit is uw tevredenheid en wij leveren u met plezier een gepersonaliseerde offerte.  Deze is gratis. <br/>
+            Om u beter van dienst te kunnen zijn kan onze keuken ontwerper ter plaatse komen om u met raad bij te staan.
             </p>
           </div>
         </div>
