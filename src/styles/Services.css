@@ -1,14 +1,17 @@
 
-.services {
+.services-container {
     width: 100%;
     height: auto;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+
+  
+   
 }
 
 .items-services {
     z-index: 5;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
 }
 
 .title-services-general {
@@ -16,8 +19,8 @@
 }
 
 .div-imagen {
-    display:inline-block;
     position:relative;
+    width: 100%;
   }
 
   .title-service {
@@ -35,10 +38,11 @@
   }
 
   .desvanecer {
-    width: 400px;
-    height: 300px;
+   width: 100%;
+   height: 50vh;
     object-fit: cover;
     padding: 3px;
+    border-radius: 25px;
   }
   
   .desvanecer:hover {
@@ -48,4 +52,15 @@
     -o-transition: opacity 500ms;
     -ms-transition: opacity 500ms;
     transition: opacity 500ms;
+  }
+
+  @media (max-width: 640px) {
+    .items-services {
+      z-index: 5;
+      display: flex;
+      flex-direction: column;
+  }
+    .desvanecer {
+      width: 100%;
+    }
   }
