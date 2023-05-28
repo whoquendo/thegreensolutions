@@ -44,7 +44,7 @@ const Navbares = () => {
                 <a>Nuestros Servicios</a>
               </li>
               <li>
-                <a href="/Galerie-photos">Galeria de fotos</a>
+                <a href="/GaleriaFotos">Galeria de fotos</a>
               </li>
               <li>
                 <a href="/Cotizaciones">Cotización - contacto</a>
@@ -116,7 +116,7 @@ const Navbares = () => {
                 <a href="Techoses">TECHOS </a>
               </li>
                 <li className="item-menu-mobil">
-                    <a href="Galerie-photos">
+                    <a href="GaleriaFotos">
                         Galeria de fotos</a>
                 </li>
                 <li className="item-menu-mobil">

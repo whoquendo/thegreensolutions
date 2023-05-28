@@ -46,6 +46,7 @@ import Cielorrasoes from '../containers/es/Cielorrasoes';
 import Balustradaes from '../containers/es/Balustradaes';
 import Terrassementes from '../containers/es/Terrassementes';
 import Techoses from '../containers/es/Techoses';
+import GaleriaFotos from '../containers/es/GaleriaFotos';
 import Cotizaciones from '../containers/es/Cotizaciones';
 
 const App = () => {
@@ -96,6 +97,7 @@ const App = () => {
                 <Route exact path='/Balustradaes' element={<Balustradaes />} />
                 <Route exact path='/Terrassementes' element={<Terrassementes />} />
                 <Route exact path='/Techoses' element={<Techoses />} />
+                <Route exact path='/GaleriaFotos' element={<GaleriaFotos />} />
                 <Route exact path='/Cotizaciones' element={<Cotizaciones />} />
                 <Route path= "*" element={<NotFound />} />
         </Routes>
