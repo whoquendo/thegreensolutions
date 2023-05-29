@@ -12,9 +12,7 @@ const Peinture = () => {
         <div class="container">
           <div class="contenu">
             <h1>
-              <h1>
-                <span>PEINTURE</span>
-              </h1>
+                PEINTURE
             </h1>
             <p>
               Pour l’intérieur comme pour l’extérieur, les travaux de peinture

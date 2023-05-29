@@ -13,7 +13,7 @@ const Balustradaes = () => {
             <div class="contenu">
               <header>
                 <h1>
-                  <span>BALUSTRADA</span>
+                  BALUSTRADA
                 </h1>
               </header>
               <p>

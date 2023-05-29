@@ -12,9 +12,7 @@ const Façade = () => {
         <div class="container">
           <div class="contenu">
             <h1>
-              <h1>
-                <span>FAÇADE. NETTOYAGE</span>
-              </h1>
+                FAÇADE - NETTOYAGE
             </h1>
             <p>
             En tant que spécialistes de la rénovation de façades, nous vous accompagnons dans la réalisation de vos projets pour redonner vie à votre bâtiment et améliorer sa durabilité. Nous proposons différents procédés pour répondre à vos besoins: 

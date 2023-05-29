@@ -13,7 +13,7 @@ const Balustradenl = () => {
           <div class="contenu">
             <header>
               <h1>
-                <span>BALUSTRADE</span>
+                BALUSTRADE
               </h1>
             </header>
             <p>

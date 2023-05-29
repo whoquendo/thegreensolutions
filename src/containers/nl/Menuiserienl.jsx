@@ -12,9 +12,7 @@ const Menuiserienl = () => {
         <div class="container">
           <div class="contenu">
             <h1>
-              <h1>
-                <span>SCHRIJNWERKEN</span>
-              </h1>
+                SCHRIJNWERKEN
             </h1>
             <p>
               Onze vaardigheden als timmerman voor uw buiten- en

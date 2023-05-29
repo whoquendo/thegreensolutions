@@ -12,9 +12,7 @@ const Schilderijnl = () => {
         <div class="container">
           <div class="contenu">
             <h1>
-              <h1>
-                <span>SCHILDERWERKEN</span>
-              </h1>
+                SCHILDERWERKEN
             </h1>
             <p>
               Zowel voor binnen als buiten vragen schilderwerken om een optimale

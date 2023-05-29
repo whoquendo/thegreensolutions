@@ -13,7 +13,7 @@ const Demolition = () => {
           <div class="contenu">
             <header>
               <h1>
-                <span>DÉMOLITION</span>
+                DÉMOLITION
               </h1>
             </header>
             <p>

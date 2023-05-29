@@ -1,12 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
-
-* {
-  box-sizing: 0;
-  margin: 0;
-  padding: 0;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 20px;
-}
+@import './_vars.scss';
 
 .et-footer {
     display: flex;
@@ -37,7 +29,7 @@ h6 {
     display: flex;
     flex-direction: column;
    justify-content: space-between;
-   justify-items: center;
+   justify-items: center;   
 }
 
 .cotainer-adresse {
@@ -147,15 +139,20 @@ h6 {
 }
 
 .div-facebook img,
-.div-instagram img {
-    width: 50px;
+.div-instagram img,
+.div-whatsapp img {
+    width: 70px;
     padding: 5px;
     object-fit: cover;
 }
 
 .item3 {
     width: 33%;
-    height: 100%;
+    height: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
 }
 
 .jour {
@@ -174,14 +171,23 @@ h6 {
     .et-footer {
         flex-direction: column;
         height: auto;
+        align-items: start;
     }
     .item1,
-    .item2,
-    .item3 {
+    .item2 {
         padding: 5px;
         width: 100%;
         height: 90%;
     }
+
+.item3 {
+    padding: 5px;
+    width: 58%;
+    align-items: start;
+    justify-content: start;
+    height: 100%;
+}
+
     .phone {
         display: none;
     }

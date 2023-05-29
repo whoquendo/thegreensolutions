@@ -13,7 +13,7 @@ const Chassis = () => {
         <div class="container">
           <div class="contenu">
             <h1>
-              <span>CHÂSIS</span>
+              CHÂSIS
             </h1>
             <p>
             Nous sommes des experts en installation de châssis, portes et volets, que ce soit pour une nouvelle construction ou une rénovation. Nous proposons une large gamme de matériaux en PVC, aluminium et bois, qui offrent de nombreux avantages, notamment une facilité d'entretien, une excellente isolation thermique et acoustique, une grande durabilité, ainsi que de nombreux styles, couleurs et formes. 

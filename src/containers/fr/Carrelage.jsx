@@ -13,7 +13,7 @@ const Carrelage = () => {
         <div class="container">
           <div class="contenu">
             <h1>
-              <span>CARRELAGE </span>
+              CARRELAGE
             </h1>
             <p>
               Nos experts en carrelage sont prêts à relever n'importe quel défi,

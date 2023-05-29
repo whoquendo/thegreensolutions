@@ -12,7 +12,7 @@ const Marcoes = () => {
         <div class="container">
           <div class="contenu">
             <h1>
-              <span>Marco</span>
+              Marcos
             </h1>
             <p> 
             Somos expertos en la instalación de ventanas, puertas y contraventanas, tanto en obra nueva como en rehabilitación. Ofrecemos una amplia gama de materiales en PVC, aluminio y madera, que ofrecen muchas ventajas, incluyendo facilidad de mantenimiento, excelente aislamiento térmico y acústico, durabilidad, así como muchos estilos, colores y formas.

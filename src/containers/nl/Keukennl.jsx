@@ -13,9 +13,7 @@ const Keuken = () => {
         <div class="container">
           <div class="contenu">
             <h1>
-              <h1>
-                <span>KEUKEN</span>
-              </h1>
+                KEUKEN
             </h1>
             <p>
             Om aan uw behoefte en stijl te voldoen creëren en plaatsen wij op maat gemaakte ingerichte keukens van hoge kwaliteit.

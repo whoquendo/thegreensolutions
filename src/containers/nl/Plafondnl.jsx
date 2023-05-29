@@ -12,9 +12,7 @@ const Plafondnl = () => {
         <div class="container">
           <div class="contenu">
             <h1>
-              <h1>
-                <span>PLEISTERWERKEN EN SCHEIDINGSWANDEN</span>
-              </h1>
+                PLEISTERWERKEN EN SCHEIDINGSWANDEN
             </h1>
             <p>
               Wij beschikken over een dienst stukadoor en afwerking om uw huis,

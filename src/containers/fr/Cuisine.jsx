@@ -12,9 +12,7 @@ const Cuisine = () => {
         <div class="container">
           <div class="contenu">
             <h1>
-              <h1>
-                <span>CUISINE</span>
-              </h1>
+                CUISINE
             </h1>
             <p>
             Nous créons et installons des cuisines équipées sur mesure de haute qualité pour répondre à vos besoins et à votre style. 

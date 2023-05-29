@@ -12,9 +12,7 @@ const Plaffonagees = () => {
           <div class="container">
             <div class="contenu">
               <h1>
-                <h1>
-                  <span>PLAFFONAGE ET CLOISON</span>
-                </h1>
+                  PLAFFONAGE ET CLOISON
               </h1>
               <p>
                 Le ofrecemos un servicio de acabado para embellecer o renovar su casa, piso o local comercial. Le garantizamos una óptima calidad de acabados:

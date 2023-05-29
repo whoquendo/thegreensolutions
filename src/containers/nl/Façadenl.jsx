@@ -12,9 +12,7 @@ const Façadenl = () => {
         <div class="container">
           <div class="contenu">
             <h1>
-              <h1>
-                <span>GEVELWERKEN</span>
-              </h1>
+                GEVELWERKEN
             </h1>
             <p>
             Als specialisten op het gebied van gevelrenovatie ondersteunen wij u bij het uitvoeren van uw projecten om uw gebouw weer tot leven te wekken en te verduurzamen. We bieden verschillende processen om aan uw behoeften te voldoen:

@@ -42,6 +42,7 @@ const Navbar = () => {
               </li>
               <li className="list" onClick={handleToggleMenu}>
                 <a>Nos Services</a>
+                
               </li>
               <li>
                 <a href="/Galerie-photos">Galerie photos</a>

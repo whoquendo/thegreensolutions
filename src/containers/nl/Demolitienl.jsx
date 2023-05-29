@@ -13,7 +13,7 @@ const Demolitienl = () => {
           <div class="contenu">
             <header>
               <h1>
-                <span>AFBRAAKWERKEN</span>
+                AFBRAAKWERKEN
               </h1>
             </header>
             <p>

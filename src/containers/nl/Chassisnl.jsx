@@ -12,7 +12,7 @@ const Chassisnl = () => {
         <div class="container">
           <div class="contenu">
             <h1>
-              <span>Ramen en Deuren</span>
+              Ramen en Deuren
             </h1>
             <p> 
             Wij zijn experts in de installatie van ramen, deuren en luiken, zowel voor nieuwbouw als voor renovatie. Wij bieden een breed scala aan materialen in PVC, aluminium en hout, die vele voordelen bieden zoals onderhoudsgemak, uitstekende thermische en akoestische isolatie, duurzaamheid en een verscheidenheid aan stijlen, kleuren en vormen. 

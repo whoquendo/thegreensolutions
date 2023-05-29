@@ -12,9 +12,7 @@ const Terrassementes = () => {
         <div class="container">
           <div class="contenu">
             <h1>
-              <h1>
-                <span>TERRASSEMENT</span>
-              </h1>
+                TERRASSEMENT
             </h1>
             <p>
             Trabajos varios para sus espacios exteriores: Nivelación - movimiento de tierras - instalación de todo tipo de vallas y empalizadas (madera y hormigón).

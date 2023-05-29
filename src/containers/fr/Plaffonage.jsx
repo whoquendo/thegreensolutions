@@ -12,9 +12,7 @@ const Plaffonage = () => {
         <div class="container">
           <div class="contenu">
             <h1>
-              <h1>
-                <span>PLAFFONAGE ET CLOISON</span>
-              </h1>
+                PLAFFONAGE ET CLOISON
             </h1>
             <p>
               Nous avons un service de plafonnage et de travaux de finitions

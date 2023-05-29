@@ -12,9 +12,7 @@ const Terrassement = () => {
         <div class="container">
           <div class="contenu">
             <h1>
-              <h1>
-                <span>TERRASSEMENT</span>
-              </h1>
+                TERRASSEMENT
             </h1>
             <p>
               Différents travaux pour vos espaces extérieurs : Nivellement –

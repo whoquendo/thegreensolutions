@@ -11,10 +11,8 @@ const Pinturaes = () => {
         <main class="content-wrapper">
           <div class="container">
             <div class="contenu">
-              <h1>
-                <h1>
-                  <span>PINTURA</span>
-                </h1>
+              <h1>    
+                  PINTURA
               </h1>
               <p>
                 Para pintar interiores y exteriores se requiere una preparación óptima y el equipo adecuado. Nos ocupamos de toda la casa, su piso o su local profesional. Pintura interior y exterior, todos los revestimientos, tintes y pinturas.

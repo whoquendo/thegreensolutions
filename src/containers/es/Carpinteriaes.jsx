@@ -12,10 +12,8 @@ const Carpinteriaes = () => {
           <div class="container">
             <div class="contenu">
               <h1>
-                <h1>
-                  <span>CARPINTERIA</span>
+                 CARPINTERIA
                 </h1>
-              </h1>
               <p>
               Nuestras competencias en carpintería para sus acondicionamientos exteriores y sus herrajes exteriores, nos encargamos de su proyecto desde su concepción hasta su realización.
                 <ul>

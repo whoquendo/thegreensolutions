@@ -14,7 +14,7 @@ const Baldosaes = () => {
         <div class="container">
           <div class="contenu">
             <h1>
-              <span>BALDOSA</span>
+              BALDOSA
             </h1>
             <p>
            Estamos preparados para afrontar cualquier reto, ya sea una nueva instalación, la renovación o la reparación de un edificio. 

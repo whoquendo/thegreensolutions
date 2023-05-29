@@ -12,10 +12,8 @@ const Cielorrasoes = () => {
           <div class="container">
             <div class="contenu">
               <h1>
-                <h1>
-                  <span>CIELORRASOS</span>
+                  CIELORRASOS
                 </h1>
-              </h1>
               <p>
                 Nuestro equipo está formado para utilizar diversas técnicas que garanticen un óptimo aislamiento acústico y térmico.
               </p>

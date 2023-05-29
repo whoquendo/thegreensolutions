@@ -6,6 +6,7 @@ import emailicon from "@assets/icons/icon_email.png";
 import logo from "@assets/icons/the_greensolutions_horizontal.png";
 import facebookicon from "@assets/icons/icon-facebook.png";
 import instagramicon from "@assets/icons/icon-instagram.png";
+import whatsappicon from "@assets/icons/icono_whatsapp.png";
 import "../../styles/footer1.css";
 
 const Footer1es = () => {
@@ -65,20 +66,28 @@ const Footer1es = () => {
           <img src={logo} alt="The green solutions" />
         </div>
         <div className="container-reseaux">
-          <div className="div-facebook">
+          {/* <div className="div-facebook">
             <a
               href="https://www.facebook.com/thegreensolutionsconstruction"
               target="_blank"
             >
               <img src={facebookicon} alt="Facebook" />
             </a>
-          </div>
-          <div className="div-instagram">
+          </div> */}
+          {/* <div className="div-instagram">
             <a
               href="https://www.instagram.com/thegreensolutions/"
               target="_blank"
             >
               <img src={instagramicon} alt="Instagram" />
+            </a>
+          </div> */}
+          <div className="div-whatsapp">
+            <a
+              href="https://api.whatsapp.com/send?phone=320483053758&text=Hola The green solutions, "
+              target="_blank"
+            >
+              <img class="whatsapp-contact" src={whatsappicon} alt="whatsapp" />
             </a>
           </div>
         </div>
@@ -87,39 +96,39 @@ const Footer1es = () => {
         <h2>HORARIOS</h2>
         <div className="jour">
           <h6>
-          LU <span> ------- </span>
+            LU <span> ------- </span>
           </h6>
-          <h6> &nbsp; Entre 08:00 - 19:00</h6>
+          <h6> &nbsp; 08:00 - 19:00</h6>
         </div>
         <div className="jour">
           <h6>
             MA <span> ------- </span>
           </h6>
-          <h6> &nbsp; Entre 08:00 - 19:00</h6>
+          <h6> &nbsp; 08:00 - 19:00</h6>
         </div>
         <div className="jour">
           <h6>
-          MI <span> ------- </span>
+            MI <span> ------- </span>
           </h6>
-          <h6> &nbsp; Entre 08:00 - 19:00</h6>
+          <h6> &nbsp; 08:00 - 19:00</h6>
         </div>
         <div className="jour">
           <h6>
             JU <span> ------- </span>
           </h6>
-          <h6> &nbsp; Entre 08:00 - 19:00</h6>
+          <h6> &nbsp; 08:00 - 19:00</h6>
         </div>
         <div className="jour">
           <h6>
-          VI <span> ------- </span>
+            VI <span> ------- </span>
           </h6>
-          <h6> &nbsp; Entre 08:00 - 19:00</h6>
+          <h6> &nbsp; 08:00 - 19:00</h6>
         </div>
         <div className="jour">
           <h6>
             SA <span> ------- </span>
           </h6>
-          <h6> &nbsp; Entre 09:00 - 14:00</h6>
+          <h6> &nbsp; 09:00 - 14:00</h6>
         </div>
       </div>
 

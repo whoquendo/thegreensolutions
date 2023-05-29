@@ -12,9 +12,7 @@ const Menuiserie = () => {
         <div class="container">
           <div class="contenu">
             <h1>
-              <h1>
-                <span>MÉNUISERIE</span>
-              </h1>
+                MÉNUISERIE
             </h1>
             <p>
               Nos compétences en menuiserie pour vos aménagements extérieurs et

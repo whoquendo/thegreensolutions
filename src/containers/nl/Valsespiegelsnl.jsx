@@ -12,9 +12,7 @@ const Valsespiegels = () => {
         <div class="container">
           <div class="contenu">
             <h1>
-              <h1>
-                <span>SYSTEEMPLAFOND</span>
-              </h1>
+                SYSTEEMPLAFOND
             </h1>
             <p>
               Onze teams zijn opgeleid om verschillende technieken te gebruiken

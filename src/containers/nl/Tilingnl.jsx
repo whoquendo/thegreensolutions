@@ -12,7 +12,7 @@ const Tilingnl = () => {
         <div class="container">
           <div class="contenu">
             <h1>
-              <span>TEGELS</span>
+              TEGELS
             </h1>
             <p>
               Onze tegel experts staan klaar om elke uitdaging aan te gaan, of

@@ -71,14 +71,14 @@ nav {
   }
 
   .list a::after {
-    content: '\f107';
-    top: 60%;
+    content: '\25be';
+    top: 20%;
     position: absolute;
     left: 70px;
     right: 0px;
     margin: 0 auto;
-    font-family: "Font Awesome 5 Free";
     font-weight: bold;
+    font-size: 2.5em;
   }
 
   .navbar-right {
@@ -101,19 +101,20 @@ nav {
   }
 
   .item-langue::after{
-    content: '\f107';
-    top: 10px;
-    right: -10px;
+    content: '\25be';
+    top: 0.0001em;
+    right: -20px;
     position: absolute;
     margin: 0 auto;
-    font-family: "Font Awesome 5 Free";
     font-weight: bold;
     cursor: pointer;
+    font-size: 2em;
   }
 
   .menu-languages {
     background-color: white;
   }
+
 
   .menu-services {
    display: flex;

@@ -83,7 +83,7 @@ const Navbares = () => {
                 <a href="Baldosaes">BALDOSA </a>
               </li>
               <li class="">
-                <a href="Marcoes">MARCO </a>
+                <a href="Marcoes">MARCOS</a>
               </li>
               <li class="">
                 <a href="Cocinaes">COCINAS</a>

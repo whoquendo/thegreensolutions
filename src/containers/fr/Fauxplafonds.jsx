@@ -12,9 +12,7 @@ const Fauxplafonds = () => {
         <div class="container">
           <div class="contenu">
             <h1>
-              <h1>
-                <span>FAUX PLAFONDS</span>
-              </h1>
+              FAUX PLAFONDS
             </h1>
             <p>
               Nos équipes sont formées à utiliser différentes techniques pour

@@ -12,9 +12,7 @@ const Cocinaes = () => {
         <div class="container">
           <div class="contenu">
             <h1>
-              <h1>
-                <span>COCINAS</span>
-              </h1>
+                COCINAS
             </h1>
             <p>
             Diseñamos e instalamos cocinas a medida de alta calidad que se adaptan a sus necesidades y estilo.

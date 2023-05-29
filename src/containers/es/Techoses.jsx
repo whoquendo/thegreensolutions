@@ -12,9 +12,7 @@ const Techoses = () => {
         <div class="container">
           <div class="contenu">
             <h1>
-              <h1>
-                <span>TECHOS</span>
-              </h1>
+                TECHOS
             </h1>
             <p>
               <h2>1) RENOVACIÓN DE TEJADOS</h2>

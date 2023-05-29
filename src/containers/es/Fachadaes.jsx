@@ -12,9 +12,7 @@ const Fachadaes = () => {
           <div class="container">
             <div class="contenu">
               <h1>
-                <h1>
-                  <span>FACHADA. LIMPIEZA</span>
-                </h1>
+                  FACHADA. LIMPIEZA
               </h1>
               <p>
               Como especialistas en rehabilitación de fachadas, podemos ayudarle en la realización de sus proyectos para devolver la vida a su edificio y mejorar su durabilidad. Ofrecemos diferentes procesos para satisfacer sus necesidades:

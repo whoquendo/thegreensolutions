@@ -13,9 +13,7 @@ const Terrassingnl = () => {
         <div class="container">
           <div class="contenu">
             <h1>
-              <h1>
-                <span>TERRASWERKEN</span>
-              </h1>
+                TERRASWERKEN
             </h1>
             <p>
             Diverse werken voor uw buitenruimtes: egaliseren - grondwerken - plaatsen van alle soorten omheiningen en palissades (hout en beton).
